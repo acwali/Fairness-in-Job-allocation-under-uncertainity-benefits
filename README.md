@@ -2,7 +2,7 @@
 
 **AFGML Capstone | Problem 6**
 
-| Student | Registration number |
+| Student | 
 |---|---|
 | Akshay Wali | 
 | Mohit Das |
