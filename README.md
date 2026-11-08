@@ -4,8 +4,8 @@
 
 | Student | Registration number |
 |---|---|
-| Akshay Wali | 261090830018 |
-| Mohit Das | 261090840018 |
+| Akshay Wali | 
+| Mohit Das |
 
 ## Research question
 
