@@ -1,0 +1,34 @@
+historical_arm,audit,group,n,n_positive,n_zero,small_group_n_lt_30,mean_predicted_positive_pct,observed_positive_pct,calibration_gap_pp,brier_score,mae,rmse,mean_predictive_log_score,nominal_interval_coverage_pct,observed_interval_coverage_pct,mean_interval_width
+All,race,Black,371,244,127,False,66.12,65.77,0.36,0.2316,5048.35,6937.54,-7.2699,90.0,96.5,20738.52
+All,race,Hispanic,39,34,5,False,84.61,87.18,-2.57,0.111,5411.69,7257.48,-9.0691,90.0,97.44,29608.24
+All,race,Neither indicator recorded,35,30,5,False,80.9,85.71,-4.81,0.1315,5299.37,6208.05,-9.0816,90.0,100.0,30997.78
+All,age,25 and over,218,146,72,False,68.51,66.97,1.53,0.2241,5848.92,8030.32,-7.5132,90.0,95.87,23372.37
+All,age,Under 25,227,162,65,False,69.29,71.37,-2.07,0.2027,4380.65,5632.33,-7.6247,90.0,97.8,21314.8
+All,race_by_age,Black / 25 and over,191,124,67,False,66.54,64.92,1.62,0.2335,5693.97,7922.24,-7.3103,90.0,95.81,22088.55
+All,race_by_age,Black / Under 25,180,120,60,False,65.68,66.67,-0.98,0.2296,4363.28,5709.89,-7.227,90.0,97.22,19306.0
+All,race_by_age,Hispanic / 25 and over,12,9,3,True,83.33,75.0,8.33,0.1904,8354.84,10499.33,-8.5436,90.0,91.67,33110.15
+All,race_by_age,Hispanic / Under 25,27,25,2,True,85.19,92.59,-7.41,0.0757,4103.62,5204.48,-9.3027,90.0,100.0,28051.83
+All,race_by_age,Neither indicator recorded / 25 and over,15,13,2,True,81.69,86.67,-4.98,0.1309,5817.24,7059.71,-9.273,90.0,100.0,31929.5
+All,race_by_age,Neither indicator recorded / Under 25,20,17,3,True,80.31,85.0,-4.69,0.1319,4910.97,5483.16,-8.9381,90.0,100.0,30298.99
+Control,race,Black,215,131,84,False,61.2,60.93,0.27,0.2498,4384.58,5729.19,-6.7873,90.0,96.28,17831.31
+Control,race,Hispanic,28,23,5,True,81.08,82.14,-1.06,0.1528,4927.89,6396.67,-8.608,90.0,100.0,31298.99
+Control,race,Neither indicator recorded,17,14,3,True,76.82,82.35,-5.53,0.1586,4842.33,5577.94,-8.7539,90.0,100.0,30661.19
+Control,age,25 and over,121,74,47,False,62.12,61.16,0.96,0.2485,4644.71,5731.65,-6.8785,90.0,97.52,21113.19
+Control,age,Under 25,139,94,45,False,66.32,67.63,-1.31,0.2202,4323.56,5849.81,-7.3152,90.0,96.4,19256.46
+Control,race_by_age,Black / 25 and over,106,63,43,False,59.78,59.43,0.34,0.2536,4447.82,5418.37,-6.7051,90.0,97.17,19162.8
+Control,race_by_age,Black / Under 25,109,68,41,False,62.59,62.39,0.2,0.2461,4323.07,6016.08,-6.8673,90.0,95.41,16536.47
+Control,race_by_age,Hispanic / 25 and over,9,6,3,True,79.97,66.67,13.3,0.2522,6959.19,8675.8,-7.4716,90.0,100.0,37298.31
+Control,race_by_age,Hispanic / Under 25,19,17,2,True,81.61,89.47,-7.86,0.1057,3965.7,4964.4,-9.1463,90.0,100.0,28457.2
+Control,race_by_age,Neither indicator recorded / 25 and over,6,5,1,True,76.73,83.33,-6.6,0.1535,4651.3,5562.05,-9.0519,90.0,100.0,31292.34
+Control,race_by_age,Neither indicator recorded / Under 25,11,9,2,True,76.87,81.82,-4.95,0.1613,4946.54,5586.59,-8.5914,90.0,100.0,30316.93
+Treated,race,Black,156,113,43,False,72.91,72.44,0.47,0.2066,5963.17,8320.1,-7.935,90.0,96.79,24745.26
+Treated,race,Hispanic,11,11,0,True,93.61,100.0,-6.39,0.0046,6643.16,9087.87,-10.2428,90.0,90.91,25304.51
+Treated,race,Neither indicator recorded,18,16,2,True,84.75,88.89,-4.13,0.1059,5731.02,6749.34,-9.3912,90.0,100.0,31315.66
+Treated,age,25 and over,97,72,25,False,76.47,74.23,2.24,0.1936,7351.08,10195.45,-8.305,90.0,93.81,26190.52
+Treated,age,Under 25,88,68,20,False,73.99,77.27,-3.28,0.1751,4470.83,5270.54,-8.1134,90.0,100.0,24566.04
+Treated,race_by_age,Black / 25 and over,85,61,24,False,74.97,71.76,3.2,0.2086,7247.98,10218.49,-8.065,90.0,94.12,25737.12
+Treated,race_by_age,Black / Under 25,71,52,19,False,70.44,73.24,-2.8,0.2043,4425.02,5204.89,-7.7793,90.0,100.0,23557.82
+Treated,race_by_age,Hispanic / 25 and over,3,3,0,True,93.4,100.0,-6.6,0.0048,12541.81,14667.47,-11.7595,90.0,66.67,20545.65
+Treated,race_by_age,Hispanic / Under 25,8,8,0,True,93.68,100.0,-6.32,0.0045,4431.17,5734.53,-9.6741,90.0,100.0,27089.09
+Treated,race_by_age,Neither indicator recorded / 25 and over,9,8,1,True,85.0,88.89,-3.89,0.1159,6594.53,7902.0,-9.4204,90.0,100.0,32354.27
+Treated,race_by_age,Neither indicator recorded / Under 25,9,8,1,True,84.51,88.89,-4.37,0.0959,4867.51,5354.02,-9.362,90.0,100.0,30277.06

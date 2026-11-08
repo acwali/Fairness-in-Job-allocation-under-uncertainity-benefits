@@ -1,0 +1,124 @@
+{
+  "record_version": "1.0",
+  "status": "retrospective snapshot of executable settings, not a preregistration",
+  "runtime": {
+    "verified_python": "3.14.6",
+    "platform": "Windows",
+    "lock_file": "requirements-lock.txt"
+  },
+  "data": {
+    "name": "Dehejia–Wahba NSW experimental RE74 subset",
+    "treated": 185,
+    "control": 260,
+    "inputs": {
+      "data/raw/nswre74_treated.txt": "e7b742fe0ff07a0f45e129b4ff108bb9611cd83d53604732c48a8a0a3e20eda3",
+      "data/raw/nswre74_control.txt": "a1364cea459d953dc691a667d99194b4ad335d6d550354fe23a5d2dc58d729b5"
+    }
+  },
+  "splitting": {
+    "unit": "participant",
+    "outer_folds": 5,
+    "inner_folds": 4,
+    "split_seed": 11,
+    "development_per_fold": 267,
+    "validation_per_fold": 89,
+    "test_per_fold": 89
+  },
+  "prediction": {
+    "ridge_penalty": 10,
+    "tree_max_depth": 2,
+    "tree_min_leaf": 20,
+    "primary_reporting_metric": "RMSE",
+    "secondary_metric": "MAE",
+    "paired_bootstrap_seed": 610
+  },
+  "policy": {
+    "capacity_percent": [
+      20,
+      40,
+      60
+    ],
+    "primary_capacity_percent": 40,
+    "candidate_stump_features": [
+      "age",
+      "education",
+      "RE74",
+      "RE75"
+    ],
+    "candidate_split_quantiles": [
+      0.33,
+      0.67
+    ],
+    "candidate_min_leaf": 20,
+    "race_group_floor": 0,
+    "lower_bound_confidence": 0.95,
+    "matched_validation_utility_loss": 200,
+    "tie_seed": 114,
+    "constraint_bootstrap_seed": 311,
+    "paired_constraint_capacity_percent": 20,
+    "paired_constraint_seed": 312,
+    "asinh_scale": 1000
+  },
+  "uncertainty": {
+    "participant_bootstrap_replicates": 2000,
+    "ate_bootstrap_seed": 11,
+    "baseline_bootstrap_seed": 2026,
+    "lottery_simulation_refitting_seeds": [
+      11,
+      22,
+      33,
+      44,
+      55
+    ],
+    "refits_per_seed": 20,
+    "small_group_threshold": 30
+  },
+  "simulation": {
+    "known_effect_replicates_per_seed": 100,
+    "minority_sizes": [
+      20,
+      60,
+      200
+    ],
+    "benefit_floors": [
+      0,
+      100
+    ],
+    "capacity": 0.4,
+    "gaussian_noise_sd": 1800,
+    "overlap_replicates_per_seed": 100,
+    "overlap_sample_size": 800,
+    "propensity_clip": [
+      0,
+      0.01,
+      0.025,
+      0.05
+    ],
+    "overlap_scenarios": [
+      [
+        0.5,
+        0
+      ],
+      [
+        1.5,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        1.5,
+        0.6
+      ],
+      [
+        1.5,
+        1.2
+      ]
+    ]
+  },
+  "inference": {
+    "ve_clique_tree_tolerance": 1e-8,
+    "nominal_predictive_interval": 0.9
+  }
+}

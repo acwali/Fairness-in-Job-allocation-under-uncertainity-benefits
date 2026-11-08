@@ -1,0 +1,103 @@
+
+Running check_data.py
+treated: n=185, mean RE78=6,349.14
+control: n=260, mean RE78=4,554.80
+Experimental difference: 1,794.34
+
+Running experiment1_ate.py
+Experimental difference: 1,794.34  [95% CI 518.53, 3,132.21]
+Outcome regression (adjusted OLS): 1,676.34  [95% CI 448.12, 2,997.58]
+IPW (constant assignment fraction): 1,794.34  [95% CI 518.53, 3,132.21]
+Adjusted minus experimental: -118.00  [paired 95% CI -493.45, 230.61]
+Saved results\metrics\ate_estimators.csv
+
+Running verify_inference.py
+No evidence: P(Y=1)=0.416250, max error=0.00e+00
+Control: P(Y=1)=0.331250, max error=0.00e+00
+Treated: P(Y=1)=0.543750, max error=0.00e+00
+Group 1 and treated: P(Y=1)=0.600000, max error=0.00e+00
+High baseline earnings and treated: P(Y=1)=0.700000, max error=0.00e+00
+Group 0 and low baseline earnings: P(Y=1)=0.300000, max error=5.55e-17
+PASS: 6 queries, normalized factors, separator agreement, and T independent of (G, X)
+Saved results\metrics\inference_checks.csv
+
+Running experiment2_scores.py
+Fold 1: development=267, validation=89, test=89
+Fold 2: development=267, validation=89, test=89
+Fold 3: development=267, validation=89, test=89
+Fold 4: development=267, validation=89, test=89
+Fold 5: development=267, validation=89, test=89
+Saved raw score files in results\experiment2
+
+Running experiment2_predictive_baselines.py
+Verified ridge predictions and fold membership for 445 held-out participants.
+Ridge: MAE 4,912.74, RMSE 6,807.66
+Shallow regression tree: MAE 4,880.91, RMSE 6,805.01
+
+Running experiment2_baselines.py
+20% capacity | benefit ranking minus earnings ranking: 189.13 [95% CI -281.69, 697.50]
+40% capacity | benefit ranking minus earnings ranking: 394.98 [95% CI -110.36, 856.59]
+60% capacity | benefit ranking minus earnings ranking: 20.43 [95% CI -358.75, 399.13]
+Saved 9 rows to results\metrics\baseline_policy_values.csv
+
+Running experiment2_group_audit.py
+Saved 132 group rows and 36 summary rows
+
+Running experiment3_constraints.py
+Saved 45 fold selections and 9 summary rows
+
+Running experiment3_comparison.py
+Saved 30 utility-audit rows and 2 paired results
+
+Running experiment3_fairness_utility.py
+Verified matched-utility counts for 6 capacity-by-method comparisons.
+Saved 121 real-data subgroup support rows and the 40% frontier figure.
+
+Running experiment4_simulation.py
+Capacity oracle value: 440.00
+Fair candidate oracle values: {0.0: 440.00000000000006, 100.0: 440.00000000000006}
+Saved 9000 run rows and 18 summary rows
+
+Running experiment5_overlap.py
+Saved 20000 run rows and 40 summary rows
+
+Running experiment2_scores.py --outcome asinh --output results\experiment2_asinh
+Fold 1: development=267, validation=89, test=89
+Fold 2: development=267, validation=89, test=89
+Fold 3: development=267, validation=89, test=89
+Fold 4: development=267, validation=89, test=89
+Fold 5: development=267, validation=89, test=89
+Saved asinh score files in results\experiment2_asinh
+
+Running experiment3_constraints.py --selection-scores results\experiment2_asinh --output results\metrics\asinh_on_asinh
+Saved 45 fold selections and 9 summary rows
+
+Running experiment3_constraints.py --selection-scores results\experiment2_asinh --evaluation-scores results\experiment2 --output results\metrics\asinh_on_raw
+Saved 45 fold selections and 9 summary rows
+Verified identical transformed-policy selections.
+
+Running experiment6_refitting.py
+Verified all 15 original fold-by-method selections
+Finished seed 11
+Finished seed 22
+Finished seed 33
+Finished seed 44
+Finished seed 55
+Saved 1500 fold rows, 300 replicate rows, and 3 summary rows
+
+Running experiment7_outcome_fairness.py
+Saved 352 group rows, 96 summary rows, and 21 coverage rows
+
+Running experiment8_calibration.py
+Scored 445 held-out participants. Saved 3 summary rows, 33 group rows, and 15 calibration bins.
+
+Running make_nsw_results_figure.py
+Saved nsw_main_results.png and nsw_main_results.pdf in results\figures
+
+Running draw_nsw_causal_dag.py
+
+Running provenance.py --write-manifest --code-commit=aa3157f892277108fa51817694fa2938b6a5f6e4
+Wrote 40 artifact records to results\manifest.csv
+
+Full run completed. See results\metrics and results\figures.
+Validated all 40 artifact hashes and 7 exact comparisons to existing results.

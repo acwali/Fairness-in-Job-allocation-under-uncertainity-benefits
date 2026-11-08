@@ -1,0 +1,7 @@
+capacity_pct,method,validation_tolerance,folds,folds_with_feasible_candidate,folds_with_utility_match
+20,Point estimate,200.0,5,5,4
+20,Lower confidence bound,200.0,5,0,0
+40,Point estimate,200.0,5,2,1
+40,Lower confidence bound,200.0,5,0,0
+60,Point estimate,200.0,5,2,2
+60,Lower confidence bound,200.0,5,0,0

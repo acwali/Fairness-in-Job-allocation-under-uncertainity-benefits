@@ -1,0 +1,31 @@
+capacity_pct,outer_fold,method,status,reference_validation_value,tolerance,feasible_candidates,matched_candidates,matched_candidate,matched_validation_value,validation_utility_loss
+20,1,Point estimate,matched,976.8,200.0,2,1,3,976.8,0.0
+20,1,Lower confidence bound,constraint infeasible,976.8,200.0,0,0,,,
+20,2,Point estimate,matched,1037.99,200.0,1,1,3,1037.99,0.0
+20,2,Lower confidence bound,constraint infeasible,1037.99,200.0,0,0,,,
+20,3,Point estimate,outside utility tolerance,1772.36,200.0,1,0,,,
+20,3,Lower confidence bound,constraint infeasible,1772.36,200.0,0,0,,,
+20,4,Point estimate,matched,647.23,200.0,1,1,2,647.23,0.0
+20,4,Lower confidence bound,constraint infeasible,647.23,200.0,0,0,,,
+20,5,Point estimate,matched,1063.8,200.0,1,1,3,959.82,103.98
+20,5,Lower confidence bound,constraint infeasible,1063.8,200.0,0,0,,,
+40,1,Point estimate,matched,1539.93,200.0,1,1,5,1539.93,0.0
+40,1,Lower confidence bound,constraint infeasible,1539.93,200.0,0,0,,,
+40,2,Point estimate,constraint infeasible,1818.47,200.0,0,0,,,
+40,2,Lower confidence bound,constraint infeasible,1818.47,200.0,0,0,,,
+40,3,Point estimate,constraint infeasible,1635.51,200.0,0,0,,,
+40,3,Lower confidence bound,constraint infeasible,1635.51,200.0,0,0,,,
+40,4,Point estimate,outside utility tolerance,2016.63,200.0,1,0,,,
+40,4,Lower confidence bound,constraint infeasible,2016.63,200.0,0,0,,,
+40,5,Point estimate,constraint infeasible,1515.98,200.0,0,0,,,
+40,5,Lower confidence bound,constraint infeasible,1515.98,200.0,0,0,,,
+60,1,Point estimate,matched,1232.65,200.0,1,1,5,1232.65,0.0
+60,1,Lower confidence bound,constraint infeasible,1232.65,200.0,0,0,,,
+60,2,Point estimate,matched,1835.52,200.0,2,1,2,1835.52,0.0
+60,2,Lower confidence bound,constraint infeasible,1835.52,200.0,0,0,,,
+60,3,Point estimate,constraint infeasible,796.67,200.0,0,0,,,
+60,3,Lower confidence bound,constraint infeasible,796.67,200.0,0,0,,,
+60,4,Point estimate,constraint infeasible,1534.56,200.0,0,0,,,
+60,4,Lower confidence bound,constraint infeasible,1534.56,200.0,0,0,,,
+60,5,Point estimate,constraint infeasible,1648.13,200.0,0,0,,,
+60,5,Lower confidence bound,constraint infeasible,1648.13,200.0,0,0,,,

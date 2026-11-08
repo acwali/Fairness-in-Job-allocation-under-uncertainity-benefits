@@ -1,0 +1,1501 @@
+seed,replicate,outer_fold,method,selected,feasible_candidates,rule,same_as_original_selection,validation_value,outer_fold_value
+11,1,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1357.3239558208172,651.1596670539294
+11,1,1,Point estimate,False,0,,False,,
+11,1,1,Lower confidence bound,False,0,,True,,
+11,1,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,304.58452544922153,-105.34470418399523
+11,1,2,Point estimate,False,0,,True,,
+11,1,2,Lower confidence bound,False,0,,True,,
+11,1,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1630.463359775182,1318.2420097034537
+11,1,3,Point estimate,False,0,,True,,
+11,1,3,Lower confidence bound,False,0,,True,,
+11,1,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1895.0898182216051,832.2222961234023
+11,1,4,Point estimate,True,2,"('age', 1, 27.0, False)",False,1895.0898182216051,832.2222961234023
+11,1,4,Lower confidence bound,False,0,,True,,
+11,1,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1484.3243323900804,427.3301677230697
+11,1,5,Point estimate,False,0,,True,,
+11,1,5,Lower confidence bound,False,0,,True,,
+11,2,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1601.0926394467242,651.1596670539294
+11,2,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1601.0926394467242,651.1596670539294
+11,2,1,Lower confidence bound,False,0,,True,,
+11,2,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,523.1612130974812,-105.34470418399523
+11,2,2,Point estimate,False,0,,True,,
+11,2,2,Lower confidence bound,False,0,,True,,
+11,2,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1441.8078451149029,1318.2420097034537
+11,2,3,Point estimate,False,0,,True,,
+11,2,3,Lower confidence bound,False,0,,True,,
+11,2,4,Unconstrained,True,7,"('age', 1, 28.0, False)",False,1565.4431302628768,633.2603620134613
+11,2,4,Point estimate,True,1,"('re74', 7, 0.0, True)",False,631.0779033325193,1589.3680724304709
+11,2,4,Lower confidence bound,False,0,,True,,
+11,2,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1561.1408193149778,427.3301677230697
+11,2,5,Point estimate,False,0,,True,,
+11,2,5,Lower confidence bound,False,0,,True,,
+11,3,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1449.2339496028496,651.1596670539294
+11,3,1,Point estimate,False,0,,False,,
+11,3,1,Lower confidence bound,False,0,,True,,
+11,3,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1864.8566071617213,2432.267145247659
+11,3,2,Point estimate,True,2,"('age', 1, 27.0, False)",False,1864.8566071617213,2432.267145247659
+11,3,2,Lower confidence bound,False,0,,True,,
+11,3,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1874.3509010977766,1318.2420097034537
+11,3,3,Point estimate,True,1,"('age', 1, 21.0, True)",False,375.3510213667194,1344.0643343680931
+11,3,3,Lower confidence bound,False,0,,True,,
+11,3,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2383.4135964280395,832.2222961234023
+11,3,4,Point estimate,True,2,"('age', 1, 27.0, False)",False,2383.4135964280395,832.2222961234023
+11,3,4,Lower confidence bound,False,0,,True,,
+11,3,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1587.3482129959477,427.3301677230697
+11,3,5,Point estimate,False,0,,True,,
+11,3,5,Lower confidence bound,False,0,,True,,
+11,4,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1410.7197147303539,651.1596670539294
+11,4,1,Point estimate,False,0,,False,,
+11,4,1,Lower confidence bound,False,0,,True,,
+11,4,2,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,338.83329746156664,-98.62910264716584
+11,4,2,Point estimate,False,0,,True,,
+11,4,2,Lower confidence bound,False,0,,True,,
+11,4,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1897.2295992298914,1318.2420097034537
+11,4,3,Point estimate,False,0,,True,,
+11,4,3,Lower confidence bound,False,0,,True,,
+11,4,4,Unconstrained,True,6,"('education', 2, 11.0, False)",False,517.1924172979761,2104.5906943709197
+11,4,4,Point estimate,False,0,,False,,
+11,4,4,Lower confidence bound,False,0,,True,,
+11,4,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1456.7226246105918,427.3301677230697
+11,4,5,Point estimate,False,0,,True,,
+11,4,5,Lower confidence bound,False,0,,True,,
+11,5,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1614.1148585076646,651.1596670539294
+11,5,1,Point estimate,True,3,"('re74', 7, 0.0, True)",True,1614.1148585076646,651.1596670539294
+11,5,1,Lower confidence bound,False,0,,True,,
+11,5,2,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,272.1235329641442,-98.62910264716584
+11,5,2,Point estimate,False,0,,True,,
+11,5,2,Lower confidence bound,False,0,,True,,
+11,5,3,Unconstrained,True,6,"('education', 2, 11.0, False)",True,1543.2832197702498,1318.2420097034537
+11,5,3,Point estimate,False,0,,True,,
+11,5,3,Lower confidence bound,False,0,,True,,
+11,5,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2482.9245674405392,832.2222961234023
+11,5,4,Point estimate,True,1,"('age', 1, 22.0, True)",False,823.5822217905367,-361.00094944284587
+11,5,4,Lower confidence bound,False,0,,True,,
+11,5,5,Unconstrained,True,7,"('age', 1, 28.0, True)",False,1636.924229719118,655.1468037238934
+11,5,5,Point estimate,False,0,,True,,
+11,5,5,Lower confidence bound,False,0,,True,,
+11,6,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1428.4129756011764,651.1596670539294
+11,6,1,Point estimate,False,0,,False,,
+11,6,1,Lower confidence bound,False,0,,True,,
+11,6,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1845.2693247768852,2432.267145247659
+11,6,2,Point estimate,True,2,"('age', 1, 27.0, False)",False,1845.2693247768852,2432.267145247659
+11,6,2,Lower confidence bound,False,0,,True,,
+11,6,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1614.2054040361845,1318.2420097034537
+11,6,3,Point estimate,False,0,,True,,
+11,6,3,Lower confidence bound,False,0,,True,,
+11,6,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2405.8402101826878,832.2222961234023
+11,6,4,Point estimate,True,1,"('age', 1, 21.0, False)",True,461.6170695680976,1271.4565612396902
+11,6,4,Lower confidence bound,False,0,,True,,
+11,6,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1650.7594120305873,427.3301677230697
+11,6,5,Point estimate,False,0,,True,,
+11,6,5,Lower confidence bound,False,0,,True,,
+11,7,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1394.060411246409,651.1596670539294
+11,7,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1394.060411246409,651.1596670539294
+11,7,1,Lower confidence bound,False,0,,True,,
+11,7,2,Unconstrained,True,7,"('age', 1, 21.0, False)",False,502.9902795487687,2861.462843000834
+11,7,2,Point estimate,True,1,"('age', 1, 21.0, False)",False,502.9902795487687,2861.462843000834
+11,7,2,Lower confidence bound,False,0,,True,,
+11,7,3,Unconstrained,True,7,"('re75', 8, 403.32496799999984, False)",False,1106.7625415815462,708.6450262914843
+11,7,3,Point estimate,False,0,,True,,
+11,7,3,Lower confidence bound,False,0,,True,,
+11,7,4,Unconstrained,True,6,"('age', 1, 26.0, False)",False,966.054759765748,1607.7404413540648
+11,7,4,Point estimate,True,1,"('age', 1, 21.0, False)",True,35.242667755555146,1271.4565612396902
+11,7,4,Lower confidence bound,False,0,,True,,
+11,7,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1467.6071804933556,427.3301677230697
+11,7,5,Point estimate,False,0,,True,,
+11,7,5,Lower confidence bound,False,0,,True,,
+11,8,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1466.4106365879095,651.1596670539294
+11,8,1,Point estimate,False,0,,False,,
+11,8,1,Lower confidence bound,False,0,,True,,
+11,8,2,Unconstrained,True,7,"('re75', 8, 367.8234, False)",False,959.8230955151099,2042.088871141638
+11,8,2,Point estimate,True,1,"('age', 1, 21.0, False)",False,434.5087132729151,2861.462843000834
+11,8,2,Lower confidence bound,False,0,,True,,
+11,8,3,Unconstrained,True,7,"('age', 1, 27.0, False)",False,964.5324005181051,460.2443895532969
+11,8,3,Point estimate,False,0,,True,,
+11,8,3,Lower confidence bound,False,0,,True,,
+11,8,4,Unconstrained,True,6,"('education', 2, 9.0, False)",False,679.6297101584265,1310.8537411666107
+11,8,4,Point estimate,False,0,,False,,
+11,8,4,Lower confidence bound,False,0,,True,,
+11,8,5,Unconstrained,True,7,"('age', 1, 28.0, True)",False,1766.7081102227817,655.1468037238934
+11,8,5,Point estimate,True,1,"('age', 1, 28.0, True)",False,1766.7081102227817,655.1468037238934
+11,8,5,Lower confidence bound,False,0,,True,,
+11,9,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1519.0144065305676,651.1596670539294
+11,9,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1519.0144065305676,651.1596670539294
+11,9,1,Lower confidence bound,False,0,,True,,
+11,9,2,Unconstrained,True,7,"('age', 1, 26.0, False)",False,482.3852628827787,2533.5768169673934
+11,9,2,Point estimate,False,0,,True,,
+11,9,2,Lower confidence bound,False,0,,True,,
+11,9,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1882.783269883055,1318.2420097034537
+11,9,3,Point estimate,False,0,,True,,
+11,9,3,Lower confidence bound,False,0,,True,,
+11,9,4,Unconstrained,True,7,"('education', 2, 10.0, True)",False,598.8774466969412,-552.0484519966875
+11,9,4,Point estimate,True,1,"('age', 1, 20.0, False)",False,217.26894595155972,984.4122604343736
+11,9,4,Lower confidence bound,False,0,,True,,
+11,9,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1565.5869869891312,427.3301677230697
+11,9,5,Point estimate,False,0,,True,,
+11,9,5,Lower confidence bound,False,0,,True,,
+11,10,1,Unconstrained,True,7,"('education', 2, 10.0, False)",False,697.774165689203,-850.3447162216762
+11,10,1,Point estimate,False,0,,False,,
+11,10,1,Lower confidence bound,False,0,,True,,
+11,10,2,Unconstrained,True,7,"('education', 2, 11.0, False)",False,420.8430266153524,1615.6960878348634
+11,10,2,Point estimate,False,0,,True,,
+11,10,2,Lower confidence bound,False,0,,True,,
+11,10,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1440.2582275617826,1318.2420097034537
+11,10,3,Point estimate,False,0,,True,,
+11,10,3,Lower confidence bound,False,0,,True,,
+11,10,4,Unconstrained,True,6,"('education', 2, 11.0, False)",False,692.2308439054926,2104.5906943709197
+11,10,4,Point estimate,False,0,,False,,
+11,10,4,Lower confidence bound,False,0,,True,,
+11,10,5,Unconstrained,True,7,"('education', 2, 9.780000000000001, False)",False,1569.7057940787865,139.46054704812857
+11,10,5,Point estimate,False,0,,True,,
+11,10,5,Lower confidence bound,False,0,,True,,
+11,11,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1404.8981565783677,651.1596670539294
+11,11,1,Point estimate,False,0,,False,,
+11,11,1,Lower confidence bound,False,0,,True,,
+11,11,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,422.8089288657548,-105.34470418399523
+11,11,2,Point estimate,False,0,,True,,
+11,11,2,Lower confidence bound,False,0,,True,,
+11,11,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1876.4695799790466,1318.2420097034537
+11,11,3,Point estimate,False,0,,True,,
+11,11,3,Lower confidence bound,False,0,,True,,
+11,11,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1898.39927073707,832.2222961234023
+11,11,4,Point estimate,True,1,"('age', 1, 21.0, False)",True,91.73131795184514,1271.4565612396902
+11,11,4,Lower confidence bound,False,0,,True,,
+11,11,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1639.8145158628183,139.46054704812857
+11,11,5,Point estimate,False,0,,True,,
+11,11,5,Lower confidence bound,False,0,,True,,
+11,12,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1528.6247865513856,651.1596670539294
+11,12,1,Point estimate,True,3,"('re74', 7, 0.0, True)",True,1528.6247865513856,651.1596670539294
+11,12,1,Lower confidence bound,False,0,,True,,
+11,12,2,Unconstrained,True,8,"('age', 1, 27.0, True)",False,382.5288859442515,-105.34470418399523
+11,12,2,Point estimate,False,0,,True,,
+11,12,2,Lower confidence bound,False,0,,True,,
+11,12,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1714.2765957861204,1318.2420097034537
+11,12,3,Point estimate,False,0,,True,,
+11,12,3,Lower confidence bound,False,0,,True,,
+11,12,4,Unconstrained,True,6,"('education', 2, 9.0, False)",False,624.5173660752132,1310.8537411666107
+11,12,4,Point estimate,False,0,,False,,
+11,12,4,Lower confidence bound,False,0,,True,,
+11,12,5,Unconstrained,True,6,"('education', 2, 9.0, False)",True,1629.838270687892,139.46054704812857
+11,12,5,Point estimate,False,0,,True,,
+11,12,5,Lower confidence bound,False,0,,True,,
+11,13,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1661.135609328028,651.1596670539294
+11,13,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1661.135609328028,651.1596670539294
+11,13,1,Lower confidence bound,False,0,,True,,
+11,13,2,Unconstrained,True,7,"('age', 1, 22.0, False)",False,736.411947850913,2930.4049761071087
+11,13,2,Point estimate,True,1,"('age', 1, 22.0, False)",False,736.411947850913,2930.4049761071087
+11,13,2,Lower confidence bound,False,0,,True,,
+11,13,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1685.969132476502,1318.2420097034537
+11,13,3,Point estimate,False,0,,True,,
+11,13,3,Lower confidence bound,False,0,,True,,
+11,13,4,Unconstrained,True,6,"('age', 1, 26.0, False)",False,1541.6651779068904,1607.7404413540648
+11,13,4,Point estimate,True,1,"('age', 1, 21.0, False)",True,427.37218708309194,1271.4565612396902
+11,13,4,Lower confidence bound,False,0,,True,,
+11,13,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1534.5376309329458,139.46054704812857
+11,13,5,Point estimate,False,0,,True,,
+11,13,5,Lower confidence bound,False,0,,True,,
+11,14,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1677.8614724954052,651.1596670539294
+11,14,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1677.8614724954052,651.1596670539294
+11,14,1,Lower confidence bound,False,0,,True,,
+11,14,2,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1784.4476552391527,2432.267145247659
+11,14,2,Point estimate,False,0,,True,,
+11,14,2,Lower confidence bound,False,0,,True,,
+11,14,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1386.4388953090927,1318.2420097034537
+11,14,3,Point estimate,True,1,"('education', 2, 9.0, False)",False,268.2648451020749,547.9167312700675
+11,14,3,Lower confidence bound,False,0,,True,,
+11,14,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1890.2002643419478,832.2222961234023
+11,14,4,Point estimate,False,0,,False,,
+11,14,4,Lower confidence bound,False,0,,True,,
+11,14,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1578.3777594942262,427.3301677230697
+11,14,5,Point estimate,False,0,,True,,
+11,14,5,Lower confidence bound,False,0,,True,,
+11,15,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1633.0331313656104,651.1596670539294
+11,15,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1633.0331313656104,651.1596670539294
+11,15,1,Lower confidence bound,False,0,,True,,
+11,15,2,Unconstrained,True,7,"('education', 2, 11.0, False)",False,465.1224859027932,1615.6960878348634
+11,15,2,Point estimate,False,0,,True,,
+11,15,2,Lower confidence bound,False,0,,True,,
+11,15,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1837.1220216147838,1318.2420097034537
+11,15,3,Point estimate,False,0,,True,,
+11,15,3,Lower confidence bound,False,0,,True,,
+11,15,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1981.25242976065,832.2222961234023
+11,15,4,Point estimate,False,0,,False,,
+11,15,4,Lower confidence bound,False,0,,True,,
+11,15,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1340.673608998366,427.3301677230697
+11,15,5,Point estimate,False,0,,True,,
+11,15,5,Lower confidence bound,False,0,,True,,
+11,16,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1529.206214607981,651.1596670539294
+11,16,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1529.206214607981,651.1596670539294
+11,16,1,Lower confidence bound,False,0,,True,,
+11,16,2,Unconstrained,True,6,"('age', 1, 26.22, True)",False,317.4769310422301,115.92390285748311
+11,16,2,Point estimate,False,0,,True,,
+11,16,2,Lower confidence bound,False,0,,True,,
+11,16,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1839.0321872620445,1318.2420097034537
+11,16,3,Point estimate,False,0,,True,,
+11,16,3,Lower confidence bound,False,0,,True,,
+11,16,4,Unconstrained,True,6,"('re74', 7, 0.0, True)",False,693.2161967670818,1589.3680724304709
+11,16,4,Point estimate,True,1,"('age', 1, 20.78, False)",False,138.27363669273305,984.4122604343736
+11,16,4,Lower confidence bound,False,0,,True,,
+11,16,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1554.1935244300441,427.3301677230697
+11,16,5,Point estimate,False,0,,True,,
+11,16,5,Lower confidence bound,False,0,,True,,
+11,17,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1735.4525930184218,651.1596670539294
+11,17,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1735.4525930184218,651.1596670539294
+11,17,1,Lower confidence bound,False,0,,True,,
+11,17,2,Unconstrained,True,8,"('age', 1, 27.0, False)",True,1787.5438044887242,2432.267145247659
+11,17,2,Point estimate,True,1,"('age', 1, 27.0, False)",False,1787.5438044887242,2432.267145247659
+11,17,2,Lower confidence bound,False,0,,True,,
+11,17,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1424.4478078076233,1318.2420097034537
+11,17,3,Point estimate,False,0,,True,,
+11,17,3,Lower confidence bound,False,0,,True,,
+11,17,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1837.5133462329254,832.2222961234023
+11,17,4,Point estimate,True,1,"('age', 1, 21.0, False)",True,214.1171987890928,1271.4565612396902
+11,17,4,Lower confidence bound,False,0,,True,,
+11,17,5,Unconstrained,True,7,"('age', 1, 22.0, False)",False,667.243367876569,526.170476246124
+11,17,5,Point estimate,False,0,,True,,
+11,17,5,Lower confidence bound,False,0,,True,,
+11,18,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1464.7076955919808,651.1596670539294
+11,18,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1464.7076955919808,651.1596670539294
+11,18,1,Lower confidence bound,False,0,,True,,
+11,18,2,Unconstrained,True,7,"('education', 2, 11.0, False)",False,561.3357331564137,1615.6960878348634
+11,18,2,Point estimate,False,0,,True,,
+11,18,2,Lower confidence bound,False,0,,True,,
+11,18,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1797.9167239418582,1318.2420097034537
+11,18,3,Point estimate,False,0,,True,,
+11,18,3,Lower confidence bound,False,0,,True,,
+11,18,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2382.83537858668,832.2222961234023
+11,18,4,Point estimate,True,3,"('education', 2, 9.0, False)",False,932.0275420833335,1310.8537411666107
+11,18,4,Lower confidence bound,False,0,,True,,
+11,18,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1467.7216875648828,427.3301677230697
+11,18,5,Point estimate,False,0,,True,,
+11,18,5,Lower confidence bound,False,0,,True,,
+11,19,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1560.2752286056207,651.1596670539294
+11,19,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1560.2752286056207,651.1596670539294
+11,19,1,Lower confidence bound,False,0,,True,,
+11,19,2,Unconstrained,True,7,"('age', 1, 28.0, False)",False,2178.6027451816476,485.71177598804576
+11,19,2,Point estimate,True,2,"('age', 1, 28.0, False)",False,2178.6027451816476,485.71177598804576
+11,19,2,Lower confidence bound,False,0,,True,,
+11,19,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1663.842428455786,1318.2420097034537
+11,19,3,Point estimate,False,0,,True,,
+11,19,3,Lower confidence bound,False,0,,True,,
+11,19,4,Unconstrained,True,6,"('age', 1, 22.0, True)",False,525.6112406861216,-361.00094944284587
+11,19,4,Point estimate,False,0,,False,,
+11,19,4,Lower confidence bound,False,0,,True,,
+11,19,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1497.4430909187465,427.3301677230697
+11,19,5,Point estimate,False,0,,True,,
+11,19,5,Lower confidence bound,False,0,,True,,
+11,20,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1778.783584314108,651.1596670539294
+11,20,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1778.783584314108,651.1596670539294
+11,20,1,Lower confidence bound,False,0,,True,,
+11,20,2,Unconstrained,True,6,"('age', 1, 26.0, True)",False,612.4391783039657,115.92390285748311
+11,20,2,Point estimate,False,0,,True,,
+11,20,2,Lower confidence bound,False,0,,True,,
+11,20,3,Unconstrained,True,6,"('education', 2, 11.0, False)",True,1773.096400606536,1318.2420097034537
+11,20,3,Point estimate,False,0,,True,,
+11,20,3,Lower confidence bound,False,0,,True,,
+11,20,4,Unconstrained,True,7,"('age', 1, 28.0, False)",False,1849.243107282461,633.2603620134613
+11,20,4,Point estimate,False,0,,False,,
+11,20,4,Lower confidence bound,False,0,,True,,
+11,20,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1307.8484774215058,139.46054704812857
+11,20,5,Point estimate,False,0,,True,,
+11,20,5,Lower confidence bound,False,0,,True,,
+22,1,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1336.3111125690878,651.1596670539294
+22,1,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1336.3111125690878,651.1596670539294
+22,1,1,Lower confidence bound,False,0,,True,,
+22,1,2,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1706.1733723453608,2432.267145247659
+22,1,2,Point estimate,False,0,,True,,
+22,1,2,Lower confidence bound,False,0,,True,,
+22,1,3,Unconstrained,True,6,"('education', 2, 11.0, False)",True,1647.6075642591436,1318.2420097034537
+22,1,3,Point estimate,False,0,,True,,
+22,1,3,Lower confidence bound,False,0,,True,,
+22,1,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1874.9175018519404,832.2222961234023
+22,1,4,Point estimate,False,0,,False,,
+22,1,4,Lower confidence bound,False,0,,True,,
+22,1,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1650.7446909021828,427.3301677230697
+22,1,5,Point estimate,False,0,,True,,
+22,1,5,Lower confidence bound,False,0,,True,,
+22,2,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1531.6412734647417,651.1596670539294
+22,2,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1531.6412734647417,651.1596670539294
+22,2,1,Lower confidence bound,False,0,,True,,
+22,2,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1463.6446993011937,2432.267145247659
+22,2,2,Point estimate,False,0,,True,,
+22,2,2,Lower confidence bound,False,0,,True,,
+22,2,3,Unconstrained,True,7,"('age', 1, 27.0, False)",False,861.7287616674906,460.2443895532969
+22,2,3,Point estimate,False,0,,True,,
+22,2,3,Lower confidence bound,False,0,,True,,
+22,2,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1214.7460566736618,832.2222961234023
+22,2,4,Point estimate,False,0,,False,,
+22,2,4,Lower confidence bound,False,0,,True,,
+22,2,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1468.5777202473532,139.46054704812857
+22,2,5,Point estimate,False,0,,True,,
+22,2,5,Lower confidence bound,False,0,,True,,
+22,3,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1366.7615395064165,651.1596670539294
+22,3,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1366.7615395064165,651.1596670539294
+22,3,1,Lower confidence bound,False,0,,True,,
+22,3,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,507.434510380456,-105.34470418399523
+22,3,2,Point estimate,False,0,,True,,
+22,3,2,Lower confidence bound,False,0,,True,,
+22,3,3,Unconstrained,True,6,"('education', 2, 11.0, False)",True,1747.6233097751608,1318.2420097034537
+22,3,3,Point estimate,False,0,,True,,
+22,3,3,Lower confidence bound,False,0,,True,,
+22,3,4,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,893.4016225008781,1589.3680724304709
+22,3,4,Point estimate,False,0,,False,,
+22,3,4,Lower confidence bound,False,0,,True,,
+22,3,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1608.402508777737,427.3301677230697
+22,3,5,Point estimate,False,0,,True,,
+22,3,5,Lower confidence bound,False,0,,True,,
+22,4,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1528.7177322640016,651.1596670539294
+22,4,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1528.7177322640016,651.1596670539294
+22,4,1,Lower confidence bound,False,0,,True,,
+22,4,2,Unconstrained,True,7,"('age', 1, 26.0, False)",False,613.6113255409031,2533.5768169673934
+22,4,2,Point estimate,True,3,"('re74', 7, 0.0, True)",False,459.9306438395162,-98.62910264716584
+22,4,2,Lower confidence bound,False,0,,True,,
+22,4,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1973.0880825043675,1318.2420097034537
+22,4,3,Point estimate,False,0,,True,,
+22,4,3,Lower confidence bound,False,0,,True,,
+22,4,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1928.385931303159,832.2222961234023
+22,4,4,Point estimate,False,0,,False,,
+22,4,4,Lower confidence bound,False,0,,True,,
+22,4,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1686.2062421950686,427.3301677230697
+22,4,5,Point estimate,False,0,,True,,
+22,4,5,Lower confidence bound,False,0,,True,,
+22,5,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1433.8185866927492,651.1596670539294
+22,5,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1433.8185866927492,651.1596670539294
+22,5,1,Lower confidence bound,False,0,,True,,
+22,5,2,Unconstrained,True,7,"('age', 1, 26.0, True)",False,426.13228733813816,115.92390285748311
+22,5,2,Point estimate,False,0,,True,,
+22,5,2,Lower confidence bound,False,0,,True,,
+22,5,3,Unconstrained,True,7,"('age', 1, 26.0, False)",False,840.378010378951,296.06809260330215
+22,5,3,Point estimate,False,0,,True,,
+22,5,3,Lower confidence bound,False,0,,True,,
+22,5,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1841.0172666786016,832.2222961234023
+22,5,4,Point estimate,False,0,,False,,
+22,5,4,Lower confidence bound,False,0,,True,,
+22,5,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1521.2134858259112,427.3301677230697
+22,5,5,Point estimate,False,0,,True,,
+22,5,5,Lower confidence bound,False,0,,True,,
+22,6,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1500.7512276211958,651.1596670539294
+22,6,1,Point estimate,False,0,,False,,
+22,6,1,Lower confidence bound,False,0,,True,,
+22,6,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,451.2221142987023,-105.34470418399523
+22,6,2,Point estimate,False,0,,True,,
+22,6,2,Lower confidence bound,False,0,,True,,
+22,6,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1568.1645834207386,1318.2420097034537
+22,6,3,Point estimate,False,0,,True,,
+22,6,3,Lower confidence bound,False,0,,True,,
+22,6,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2239.6771516530303,832.2222961234023
+22,6,4,Point estimate,True,1,"('age', 1, 27.0, False)",False,2239.6771516530303,832.2222961234023
+22,6,4,Lower confidence bound,False,0,,True,,
+22,6,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1538.9074232800758,139.46054704812857
+22,6,5,Point estimate,False,0,,True,,
+22,6,5,Lower confidence bound,False,0,,True,,
+22,7,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1438.6000712964324,651.1596670539294
+22,7,1,Point estimate,False,0,,False,,
+22,7,1,Lower confidence bound,False,0,,True,,
+22,7,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1618.952722852002,2432.267145247659
+22,7,2,Point estimate,False,0,,True,,
+22,7,2,Lower confidence bound,False,0,,True,,
+22,7,3,Unconstrained,True,7,"('age', 1, 27.0, False)",False,969.9796344271533,460.2443895532969
+22,7,3,Point estimate,False,0,,True,,
+22,7,3,Lower confidence bound,False,0,,True,,
+22,7,4,Unconstrained,True,7,"('age', 1, 26.0, False)",False,1094.208438327303,1607.7404413540648
+22,7,4,Point estimate,False,0,,False,,
+22,7,4,Lower confidence bound,False,0,,True,,
+22,7,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1533.2454822868822,427.3301677230697
+22,7,5,Point estimate,False,0,,True,,
+22,7,5,Lower confidence bound,False,0,,True,,
+22,8,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1755.9077459781024,651.1596670539294
+22,8,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1755.9077459781024,651.1596670539294
+22,8,1,Lower confidence bound,False,0,,True,,
+22,8,2,Unconstrained,True,7,"('age', 1, 26.0, False)",False,373.9630953263664,2533.5768169673934
+22,8,2,Point estimate,False,0,,True,,
+22,8,2,Lower confidence bound,False,0,,True,,
+22,8,3,Unconstrained,True,7,"('age', 1, 26.0, False)",False,1120.6227393604868,296.06809260330215
+22,8,3,Point estimate,False,0,,True,,
+22,8,3,Lower confidence bound,False,0,,True,,
+22,8,4,Unconstrained,True,7,"('age', 1, 23.0, False)",False,578.2447658625262,1140.1282019299742
+22,8,4,Point estimate,False,0,,False,,
+22,8,4,Lower confidence bound,False,0,,True,,
+22,8,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1616.2080666798224,427.3301677230697
+22,8,5,Point estimate,False,0,,True,,
+22,8,5,Lower confidence bound,False,0,,True,,
+22,9,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1686.4921834254167,651.1596670539294
+22,9,1,Point estimate,True,4,"('re74', 7, 0.0, True)",True,1686.4921834254167,651.1596670539294
+22,9,1,Lower confidence bound,False,0,,True,,
+22,9,2,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,340.02523032474403,-98.62910264716584
+22,9,2,Point estimate,False,0,,True,,
+22,9,2,Lower confidence bound,False,0,,True,,
+22,9,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1828.329154211277,1318.2420097034537
+22,9,3,Point estimate,False,0,,True,,
+22,9,3,Lower confidence bound,False,0,,True,,
+22,9,4,Unconstrained,True,6,"('education', 2, 11.0, False)",False,669.7112237523193,2104.5906943709197
+22,9,4,Point estimate,False,0,,False,,
+22,9,4,Lower confidence bound,False,0,,True,,
+22,9,5,Unconstrained,True,6,"('age', 1, 22.78, False)",False,852.8472164181521,526.170476246124
+22,9,5,Point estimate,False,0,,True,,
+22,9,5,Lower confidence bound,False,0,,True,,
+22,10,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1555.7573589868816,651.1596670539294
+22,10,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1555.7573589868816,651.1596670539294
+22,10,1,Lower confidence bound,False,0,,True,,
+22,10,2,Unconstrained,True,6,"('age', 1, 27.0, True)",False,279.5050349537386,-105.34470418399523
+22,10,2,Point estimate,False,0,,True,,
+22,10,2,Lower confidence bound,False,0,,True,,
+22,10,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1618.9835372431771,1318.2420097034537
+22,10,3,Point estimate,False,0,,True,,
+22,10,3,Lower confidence bound,False,0,,True,,
+22,10,4,Unconstrained,True,6,"('age', 1, 28.0, False)",False,1562.1435579450858,633.2603620134613
+22,10,4,Point estimate,True,1,"('re74', 7, 0.0, True)",False,841.0867105848649,1589.3680724304709
+22,10,4,Lower confidence bound,False,0,,True,,
+22,10,5,Unconstrained,True,6,"('education', 2, 9.780000000000001, False)",False,1492.3255553313536,139.46054704812857
+22,10,5,Point estimate,False,0,,True,,
+22,10,5,Lower confidence bound,False,0,,True,,
+22,11,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1566.1573680495258,651.1596670539294
+22,11,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1566.1573680495258,651.1596670539294
+22,11,1,Lower confidence bound,False,0,,True,,
+22,11,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2287.7435759546565,2432.267145247659
+22,11,2,Point estimate,True,3,"('age', 1, 27.0, False)",False,2287.7435759546565,2432.267145247659
+22,11,2,Lower confidence bound,False,0,,True,,
+22,11,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1574.7984912921765,1318.2420097034537
+22,11,3,Point estimate,False,0,,True,,
+22,11,3,Lower confidence bound,False,0,,True,,
+22,11,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2158.0590741611086,832.2222961234023
+22,11,4,Point estimate,False,0,,False,,
+22,11,4,Lower confidence bound,False,0,,True,,
+22,11,5,Unconstrained,True,8,"('re74', 7, 831.8390539999999, True)",False,1520.522882083257,579.8968618108406
+22,11,5,Point estimate,True,1,"('age', 1, 24.0, False)",False,1062.43896077315,683.812667778416
+22,11,5,Lower confidence bound,False,0,,True,,
+22,12,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1491.4882602775733,651.1596670539294
+22,12,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1491.4882602775733,651.1596670539294
+22,12,1,Lower confidence bound,False,0,,True,,
+22,12,2,Unconstrained,True,7,"('age', 1, 28.0, False)",False,1852.1380038257898,485.71177598804576
+22,12,2,Point estimate,True,1,"('age', 1, 21.0, False)",False,185.33887596936256,2861.462843000834
+22,12,2,Lower confidence bound,False,0,,True,,
+22,12,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1770.1508965773883,1318.2420097034537
+22,12,3,Point estimate,False,0,,True,,
+22,12,3,Lower confidence bound,False,0,,True,,
+22,12,4,Unconstrained,True,7,"('age', 1, 26.0, False)",False,1510.5645988550514,1607.7404413540648
+22,12,4,Point estimate,True,1,"('education', 2, 9.0, False)",False,875.3776819282738,1310.8537411666107
+22,12,4,Lower confidence bound,False,0,,True,,
+22,12,5,Unconstrained,True,7,"('education', 2, 11.0, True)",False,1876.7316785506575,638.2191142704936
+22,12,5,Point estimate,False,0,,True,,
+22,12,5,Lower confidence bound,False,0,,True,,
+22,13,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1381.1229977943503,651.1596670539294
+22,13,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1381.1229977943503,651.1596670539294
+22,13,1,Lower confidence bound,False,0,,True,,
+22,13,2,Unconstrained,True,7,"('age', 1, 28.0, False)",False,1884.1615704029591,485.71177598804576
+22,13,2,Point estimate,False,0,,True,,
+22,13,2,Lower confidence bound,False,0,,True,,
+22,13,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1275.2742368326954,1318.2420097034537
+22,13,3,Point estimate,False,0,,True,,
+22,13,3,Lower confidence bound,False,0,,True,,
+22,13,4,Unconstrained,True,6,"('education', 2, 9.0, False)",False,425.48087009227737,1310.8537411666107
+22,13,4,Point estimate,False,0,,False,,
+22,13,4,Lower confidence bound,False,0,,True,,
+22,13,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1577.9196821024914,427.3301677230697
+22,13,5,Point estimate,False,0,,True,,
+22,13,5,Lower confidence bound,False,0,,True,,
+22,14,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1351.0449281426418,651.1596670539294
+22,14,1,Point estimate,False,0,,False,,
+22,14,1,Lower confidence bound,False,0,,True,,
+22,14,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2056.917316380747,2432.267145247659
+22,14,2,Point estimate,True,2,"('age', 1, 27.0, False)",False,2056.917316380747,2432.267145247659
+22,14,2,Lower confidence bound,False,0,,True,,
+22,14,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1516.2942650634636,1318.2420097034537
+22,14,3,Point estimate,False,0,,True,,
+22,14,3,Lower confidence bound,False,0,,True,,
+22,14,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2024.2170648391557,832.2222961234023
+22,14,4,Point estimate,False,0,,False,,
+22,14,4,Lower confidence bound,False,0,,True,,
+22,14,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1477.2378531136806,427.3301677230697
+22,14,5,Point estimate,False,0,,True,,
+22,14,5,Lower confidence bound,False,0,,True,,
+22,15,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1729.716326344532,651.1596670539294
+22,15,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1729.716326344532,651.1596670539294
+22,15,1,Lower confidence bound,False,0,,True,,
+22,15,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,423.03310025926777,-105.34470418399523
+22,15,2,Point estimate,False,0,,True,,
+22,15,2,Lower confidence bound,False,0,,True,,
+22,15,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1655.0292317255216,1318.2420097034537
+22,15,3,Point estimate,False,0,,True,,
+22,15,3,Lower confidence bound,False,0,,True,,
+22,15,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2199.875835964569,832.2222961234023
+22,15,4,Point estimate,True,1,"('age', 1, 21.0, False)",True,316.93105101163985,1271.4565612396902
+22,15,4,Lower confidence bound,False,0,,True,,
+22,15,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1635.6889592130065,139.46054704812857
+22,15,5,Point estimate,True,1,"('age', 1, 22.0, False)",False,1039.8018772509108,526.170476246124
+22,15,5,Lower confidence bound,False,0,,True,,
+22,16,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1701.0737663746756,651.1596670539294
+22,16,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1701.0737663746756,651.1596670539294
+22,16,1,Lower confidence bound,False,0,,True,,
+22,16,2,Unconstrained,True,7,"('age', 1, 26.0, False)",False,441.7917828199454,2533.5768169673934
+22,16,2,Point estimate,False,0,,True,,
+22,16,2,Lower confidence bound,False,0,,True,,
+22,16,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1783.0682166366737,1318.2420097034537
+22,16,3,Point estimate,False,0,,True,,
+22,16,3,Lower confidence bound,False,0,,True,,
+22,16,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2177.3650427790412,832.2222961234023
+22,16,4,Point estimate,True,3,"('age', 1, 27.0, False)",False,2177.3650427790412,832.2222961234023
+22,16,4,Lower confidence bound,False,0,,True,,
+22,16,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1494.2844998602072,427.3301677230697
+22,16,5,Point estimate,False,0,,True,,
+22,16,5,Lower confidence bound,False,0,,True,,
+22,17,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1459.0523198742114,651.1596670539294
+22,17,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1459.0523198742114,651.1596670539294
+22,17,1,Lower confidence bound,False,0,,True,,
+22,17,2,Unconstrained,True,7,"('age', 1, 28.0, True)",False,544.560230612316,1739.2966170119078
+22,17,2,Point estimate,False,0,,True,,
+22,17,2,Lower confidence bound,False,0,,True,,
+22,17,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1656.8769264162597,1318.2420097034537
+22,17,3,Point estimate,False,0,,True,,
+22,17,3,Lower confidence bound,False,0,,True,,
+22,17,4,Unconstrained,True,6,"('re74', 7, 0.0, True)",False,749.0170386902032,1589.3680724304709
+22,17,4,Point estimate,True,1,"('age', 1, 21.78, False)",False,424.63203112978886,1271.4565612396902
+22,17,4,Lower confidence bound,False,0,,True,,
+22,17,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1596.8668180083437,139.46054704812857
+22,17,5,Point estimate,False,0,,True,,
+22,17,5,Lower confidence bound,False,0,,True,,
+22,18,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1539.3670728973593,651.1596670539294
+22,18,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1539.3670728973593,651.1596670539294
+22,18,1,Lower confidence bound,False,0,,True,,
+22,18,2,Unconstrained,True,6,"('age', 1, 27.0, True)",False,411.4209338812936,-105.34470418399523
+22,18,2,Point estimate,False,0,,True,,
+22,18,2,Lower confidence bound,False,0,,True,,
+22,18,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1881.966991155855,1318.2420097034537
+22,18,3,Point estimate,False,0,,True,,
+22,18,3,Lower confidence bound,False,0,,True,,
+22,18,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1997.9633364654323,832.2222961234023
+22,18,4,Point estimate,False,0,,False,,
+22,18,4,Lower confidence bound,False,0,,True,,
+22,18,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1570.489350391875,427.3301677230697
+22,18,5,Point estimate,False,0,,True,,
+22,18,5,Lower confidence bound,False,0,,True,,
+22,19,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1682.5883654141783,651.1596670539294
+22,19,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1682.5883654141783,651.1596670539294
+22,19,1,Lower confidence bound,False,0,,True,,
+22,19,2,Unconstrained,True,7,"('education', 2, 11.0, False)",False,453.8409987616208,1615.6960878348634
+22,19,2,Point estimate,True,1,"('age', 1, 21.0, False)",False,284.3596003929491,2861.462843000834
+22,19,2,Lower confidence bound,False,0,,True,,
+22,19,3,Unconstrained,True,7,"('re75', 8, 0.0, False)",False,1123.5825549166213,657.0674358251639
+22,19,3,Point estimate,False,0,,True,,
+22,19,3,Lower confidence bound,False,0,,True,,
+22,19,4,Unconstrained,True,6,"('age', 1, 26.22, False)",False,1676.8722546975596,1607.7404413540648
+22,19,4,Point estimate,True,1,"('age', 1, 20.0, False)",False,948.6383383949367,984.4122604343736
+22,19,4,Lower confidence bound,False,0,,True,,
+22,19,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1423.1111845028217,139.46054704812857
+22,19,5,Point estimate,False,0,,True,,
+22,19,5,Lower confidence bound,False,0,,True,,
+22,20,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1710.9387211733958,651.1596670539294
+22,20,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1710.9387211733958,651.1596670539294
+22,20,1,Lower confidence bound,False,0,,True,,
+22,20,2,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1899.227297459903,2432.267145247659
+22,20,2,Point estimate,True,2,"('age', 1, 27.0, False)",False,1899.227297459903,2432.267145247659
+22,20,2,Lower confidence bound,False,0,,True,,
+22,20,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1681.5939861564443,1318.2420097034537
+22,20,3,Point estimate,False,0,,True,,
+22,20,3,Lower confidence bound,False,0,,True,,
+22,20,4,Unconstrained,True,6,"('education', 2, 11.0, False)",False,396.35284052553544,2104.5906943709197
+22,20,4,Point estimate,False,0,,False,,
+22,20,4,Lower confidence bound,False,0,,True,,
+22,20,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1553.32520381204,139.46054704812857
+22,20,5,Point estimate,True,2,"('education', 2, 9.0, False)",False,1553.32520381204,139.46054704812857
+22,20,5,Lower confidence bound,False,0,,True,,
+33,1,1,Unconstrained,True,7,"('education', 2, 9.0, False)",False,1152.403333275973,674.3896591668341
+33,1,1,Point estimate,True,2,"('education', 2, 9.0, False)",False,1152.403333275973,674.3896591668341
+33,1,1,Lower confidence bound,False,0,,True,,
+33,1,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1962.89483432539,2432.267145247659
+33,1,2,Point estimate,True,2,"('age', 1, 27.0, False)",False,1962.89483432539,2432.267145247659
+33,1,2,Lower confidence bound,False,0,,True,,
+33,1,3,Unconstrained,True,8,"('re75', 8, 720.6665579999997, False)",False,866.4157703041303,226.03083106855055
+33,1,3,Point estimate,False,0,,True,,
+33,1,3,Lower confidence bound,False,0,,True,,
+33,1,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2284.3042982051606,832.2222961234023
+33,1,4,Point estimate,True,1,"('age', 1, 27.0, False)",False,2284.3042982051606,832.2222961234023
+33,1,4,Lower confidence bound,False,0,,True,,
+33,1,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1542.9058953822162,427.3301677230697
+33,1,5,Point estimate,False,0,,True,,
+33,1,5,Lower confidence bound,False,0,,True,,
+33,2,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1462.3917993189802,651.1596670539294
+33,2,1,Point estimate,False,0,,False,,
+33,2,1,Lower confidence bound,False,0,,True,,
+33,2,2,Unconstrained,True,7,"('age', 1, 28.0, True)",False,461.69987395633177,1739.2966170119078
+33,2,2,Point estimate,False,0,,True,,
+33,2,2,Lower confidence bound,False,0,,True,,
+33,2,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1804.4026777110726,1318.2420097034537
+33,2,3,Point estimate,False,0,,True,,
+33,2,3,Lower confidence bound,False,0,,True,,
+33,2,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1649.3618220667206,832.2222961234023
+33,2,4,Point estimate,False,0,,False,,
+33,2,4,Lower confidence bound,False,0,,True,,
+33,2,5,Unconstrained,True,7,"('age', 1, 21.78, False)",False,1125.3207348251428,533.2645137385915
+33,2,5,Point estimate,False,0,,True,,
+33,2,5,Lower confidence bound,False,0,,True,,
+33,3,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1323.4897356196661,651.1596670539294
+33,3,1,Point estimate,False,0,,False,,
+33,3,1,Lower confidence bound,False,0,,True,,
+33,3,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,390.2455784192142,-105.34470418399523
+33,3,2,Point estimate,False,0,,True,,
+33,3,2,Lower confidence bound,False,0,,True,,
+33,3,3,Unconstrained,True,6,"('age', 1, 28.0, False)",False,1396.8008364747072,510.6305355943899
+33,3,3,Point estimate,False,0,,True,,
+33,3,3,Lower confidence bound,False,0,,True,,
+33,3,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1664.3702270087408,832.2222961234023
+33,3,4,Point estimate,False,0,,False,,
+33,3,4,Lower confidence bound,False,0,,True,,
+33,3,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1349.8556158088363,427.3301677230697
+33,3,5,Point estimate,False,0,,True,,
+33,3,5,Lower confidence bound,False,0,,True,,
+33,4,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1577.0284930606886,651.1596670539294
+33,4,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1577.0284930606886,651.1596670539294
+33,4,1,Lower confidence bound,False,0,,True,,
+33,4,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2101.8968526896606,2432.267145247659
+33,4,2,Point estimate,True,1,"('education', 2, 9.0, False)",False,282.16887489281413,2407.5701028772733
+33,4,2,Lower confidence bound,False,0,,True,,
+33,4,3,Unconstrained,True,7,"('age', 1, 27.0, False)",False,979.2305672537001,460.2443895532969
+33,4,3,Point estimate,True,1,"('education', 2, 9.0, False)",False,135.5664000287746,547.9167312700675
+33,4,3,Lower confidence bound,False,0,,True,,
+33,4,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1733.015030383291,832.2222961234023
+33,4,4,Point estimate,False,0,,False,,
+33,4,4,Lower confidence bound,False,0,,True,,
+33,4,5,Unconstrained,True,7,"('age', 1, 22.0, False)",False,731.8745175234706,526.170476246124
+33,4,5,Point estimate,False,0,,True,,
+33,4,5,Lower confidence bound,False,0,,True,,
+33,5,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1396.0157934959034,651.1596670539294
+33,5,1,Point estimate,False,0,,False,,
+33,5,1,Lower confidence bound,False,0,,True,,
+33,5,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1658.026572114144,2432.267145247659
+33,5,2,Point estimate,True,1,"('age', 1, 22.0, False)",False,610.0662012952289,2930.4049761071087
+33,5,2,Lower confidence bound,False,0,,True,,
+33,5,3,Unconstrained,True,6,"('education', 2, 11.0, False)",True,1547.7923811786013,1318.2420097034537
+33,5,3,Point estimate,True,1,"('education', 2, 9.0, False)",False,666.3425429529844,547.9167312700675
+33,5,3,Lower confidence bound,False,0,,True,,
+33,5,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1860.2369122391683,832.2222961234023
+33,5,4,Point estimate,False,0,,False,,
+33,5,4,Lower confidence bound,False,0,,True,,
+33,5,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1574.5375965513313,427.3301677230697
+33,5,5,Point estimate,False,0,,True,,
+33,5,5,Lower confidence bound,False,0,,True,,
+33,6,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1441.1508580689506,651.1596670539294
+33,6,1,Point estimate,False,0,,False,,
+33,6,1,Lower confidence bound,False,0,,True,,
+33,6,2,Unconstrained,True,7,"('education', 2, 9.0, True)",False,1557.1237157878768,-84.03202911196021
+33,6,2,Point estimate,False,0,,True,,
+33,6,2,Lower confidence bound,False,0,,True,,
+33,6,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1671.4089713603698,1318.2420097034537
+33,6,3,Point estimate,False,0,,True,,
+33,6,3,Lower confidence bound,False,0,,True,,
+33,6,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1712.4577771163083,832.2222961234023
+33,6,4,Point estimate,False,0,,False,,
+33,6,4,Lower confidence bound,False,0,,True,,
+33,6,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1437.8203393205024,139.46054704812857
+33,6,5,Point estimate,False,0,,True,,
+33,6,5,Lower confidence bound,False,0,,True,,
+33,7,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1640.3313450076253,651.1596670539294
+33,7,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1640.3313450076253,651.1596670539294
+33,7,1,Lower confidence bound,False,0,,True,,
+33,7,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1895.3595386042718,2432.267145247659
+33,7,2,Point estimate,True,1,"('age', 1, 27.0, False)",False,1895.3595386042718,2432.267145247659
+33,7,2,Lower confidence bound,False,0,,True,,
+33,7,3,Unconstrained,True,8,"('education', 2, 11.0, False)",True,1613.0178939046186,1318.2420097034537
+33,7,3,Point estimate,False,0,,True,,
+33,7,3,Lower confidence bound,False,0,,True,,
+33,7,4,Unconstrained,True,7,"('age', 1, 28.0, False)",False,1244.5697990995532,633.2603620134613
+33,7,4,Point estimate,False,0,,False,,
+33,7,4,Lower confidence bound,False,0,,True,,
+33,7,5,Unconstrained,True,7,"('age', 1, 28.0, True)",False,1818.530592807897,655.1468037238934
+33,7,5,Point estimate,False,0,,True,,
+33,7,5,Lower confidence bound,False,0,,True,,
+33,8,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1343.3685883994042,651.1596670539294
+33,8,1,Point estimate,False,0,,False,,
+33,8,1,Lower confidence bound,False,0,,True,,
+33,8,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,660.9862734371827,-105.34470418399523
+33,8,2,Point estimate,True,1,"('re74', 7, 0.0, True)",False,455.42768343507225,-98.62910264716584
+33,8,2,Lower confidence bound,False,0,,True,,
+33,8,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1687.8644290682066,1318.2420097034537
+33,8,3,Point estimate,False,0,,True,,
+33,8,3,Lower confidence bound,False,0,,True,,
+33,8,4,Unconstrained,True,6,"('education', 2, 11.0, False)",False,471.40188538830563,2104.5906943709197
+33,8,4,Point estimate,False,0,,False,,
+33,8,4,Lower confidence bound,False,0,,True,,
+33,8,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1573.9711753899321,427.3301677230697
+33,8,5,Point estimate,False,0,,True,,
+33,8,5,Lower confidence bound,False,0,,True,,
+33,9,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1625.9166072406263,651.1596670539294
+33,9,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1625.9166072406263,651.1596670539294
+33,9,1,Lower confidence bound,False,0,,True,,
+33,9,2,Unconstrained,True,7,"('age', 1, 28.0, False)",False,2196.96128093405,485.71177598804576
+33,9,2,Point estimate,True,3,"('age', 1, 28.0, False)",False,2196.96128093405,485.71177598804576
+33,9,2,Lower confidence bound,False,0,,True,,
+33,9,3,Unconstrained,True,7,"('age', 1, 27.0, False)",False,835.029407726466,460.2443895532969
+33,9,3,Point estimate,False,0,,True,,
+33,9,3,Lower confidence bound,False,0,,True,,
+33,9,4,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,687.7011568683448,1589.3680724304709
+33,9,4,Point estimate,False,0,,False,,
+33,9,4,Lower confidence bound,False,0,,True,,
+33,9,5,Unconstrained,True,7,"('age', 1, 22.0, False)",False,756.4477459835304,526.170476246124
+33,9,5,Point estimate,False,0,,True,,
+33,9,5,Lower confidence bound,False,0,,True,,
+33,10,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1574.921225552568,651.1596670539294
+33,10,1,Point estimate,True,1,"('age', 1, 26.0, False)",False,1188.6014697094479,496.0129507746904
+33,10,1,Lower confidence bound,False,0,,True,,
+33,10,2,Unconstrained,True,7,"('education', 2, 11.0, False)",False,269.7758618687811,1615.6960878348634
+33,10,2,Point estimate,False,0,,True,,
+33,10,2,Lower confidence bound,False,0,,True,,
+33,10,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1938.3955024222405,1318.2420097034537
+33,10,3,Point estimate,True,1,"('education', 2, 9.0, False)",False,491.204603088645,547.9167312700675
+33,10,3,Lower confidence bound,False,0,,True,,
+33,10,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2211.4034529281575,832.2222961234023
+33,10,4,Point estimate,True,2,"('re74', 7, 0.0, True)",False,971.7236003360965,1589.3680724304709
+33,10,4,Lower confidence bound,False,0,,True,,
+33,10,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1597.8168404374735,139.46054704812857
+33,10,5,Point estimate,False,0,,True,,
+33,10,5,Lower confidence bound,False,0,,True,,
+33,11,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1592.4707820206354,651.1596670539294
+33,11,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1592.4707820206354,651.1596670539294
+33,11,1,Lower confidence bound,False,0,,True,,
+33,11,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2018.8958218412365,2432.267145247659
+33,11,2,Point estimate,True,1,"('age', 1, 27.0, False)",False,2018.8958218412365,2432.267145247659
+33,11,2,Lower confidence bound,False,0,,True,,
+33,11,3,Unconstrained,True,6,"('education', 2, 11.0, False)",True,1925.846800503816,1318.2420097034537
+33,11,3,Point estimate,False,0,,True,,
+33,11,3,Lower confidence bound,False,0,,True,,
+33,11,4,Unconstrained,True,6,"('age', 1, 26.0, False)",False,1144.9559364938668,1607.7404413540648
+33,11,4,Point estimate,True,1,"('age', 1, 21.0, False)",True,111.63570992271944,1271.4565612396902
+33,11,4,Lower confidence bound,False,0,,True,,
+33,11,5,Unconstrained,True,7,"('age', 1, 22.0, False)",False,1018.0850941249337,526.170476246124
+33,11,5,Point estimate,False,0,,True,,
+33,11,5,Lower confidence bound,False,0,,True,,
+33,12,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1418.9050062802053,651.1596670539294
+33,12,1,Point estimate,False,0,,False,,
+33,12,1,Lower confidence bound,False,0,,True,,
+33,12,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,361.3779908282597,-105.34470418399523
+33,12,2,Point estimate,False,0,,True,,
+33,12,2,Lower confidence bound,False,0,,True,,
+33,12,3,Unconstrained,True,7,"('age', 1, 27.0, False)",False,953.6381854047139,460.2443895532969
+33,12,3,Point estimate,False,0,,True,,
+33,12,3,Lower confidence bound,False,0,,True,,
+33,12,4,Unconstrained,True,7,"('age', 1, 28.0, False)",False,1648.8172633172055,633.2603620134613
+33,12,4,Point estimate,False,0,,False,,
+33,12,4,Lower confidence bound,False,0,,True,,
+33,12,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1378.4867284448528,427.3301677230697
+33,12,5,Point estimate,False,0,,True,,
+33,12,5,Lower confidence bound,False,0,,True,,
+33,13,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1358.5769466902482,651.1596670539294
+33,13,1,Point estimate,False,0,,False,,
+33,13,1,Lower confidence bound,False,0,,True,,
+33,13,2,Unconstrained,True,7,"('age', 1, 28.0, False)",False,2057.274563746148,485.71177598804576
+33,13,2,Point estimate,True,1,"('age', 1, 28.0, False)",False,2057.274563746148,485.71177598804576
+33,13,2,Lower confidence bound,False,0,,True,,
+33,13,3,Unconstrained,True,6,"('education', 2, 11.0, False)",True,1717.3063069798438,1318.2420097034537
+33,13,3,Point estimate,False,0,,True,,
+33,13,3,Lower confidence bound,False,0,,True,,
+33,13,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2077.462491944462,832.2222961234023
+33,13,4,Point estimate,False,0,,False,,
+33,13,4,Lower confidence bound,False,0,,True,,
+33,13,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1603.101708988561,139.46054704812857
+33,13,5,Point estimate,False,0,,True,,
+33,13,5,Lower confidence bound,False,0,,True,,
+33,14,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1616.7232772447835,651.1596670539294
+33,14,1,Point estimate,True,3,"('re74', 7, 0.0, True)",True,1616.7232772447835,651.1596670539294
+33,14,1,Lower confidence bound,False,0,,True,,
+33,14,2,Unconstrained,True,6,"('age', 1, 25.0, False)",False,1185.9996885744433,1849.444462898785
+33,14,2,Point estimate,False,0,,True,,
+33,14,2,Lower confidence bound,False,0,,True,,
+33,14,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1464.1787101406287,1318.2420097034537
+33,14,3,Point estimate,False,0,,True,,
+33,14,3,Lower confidence bound,False,0,,True,,
+33,14,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1754.0473985284043,832.2222961234023
+33,14,4,Point estimate,False,0,,False,,
+33,14,4,Lower confidence bound,False,0,,True,,
+33,14,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1467.490171199446,427.3301677230697
+33,14,5,Point estimate,False,0,,True,,
+33,14,5,Lower confidence bound,False,0,,True,,
+33,15,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1577.7340079247117,651.1596670539294
+33,15,1,Point estimate,True,3,"('re74', 7, 0.0, True)",True,1577.7340079247117,651.1596670539294
+33,15,1,Lower confidence bound,False,0,,True,,
+33,15,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1723.8823312545198,2432.267145247659
+33,15,2,Point estimate,False,0,,True,,
+33,15,2,Lower confidence bound,False,0,,True,,
+33,15,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1624.635961021183,1318.2420097034537
+33,15,3,Point estimate,False,0,,True,,
+33,15,3,Lower confidence bound,False,0,,True,,
+33,15,4,Unconstrained,True,6,"('education', 2, 9.0, True)",False,721.5818954444192,160.87525325384672
+33,15,4,Point estimate,False,0,,False,,
+33,15,4,Lower confidence bound,False,0,,True,,
+33,15,5,Unconstrained,True,7,"('age', 1, 28.0, True)",False,1652.492821688678,655.1468037238934
+33,15,5,Point estimate,False,0,,True,,
+33,15,5,Lower confidence bound,False,0,,True,,
+33,16,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1517.583667411152,651.1596670539294
+33,16,1,Point estimate,False,0,,False,,
+33,16,1,Lower confidence bound,False,0,,True,,
+33,16,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1935.9324911912076,2432.267145247659
+33,16,2,Point estimate,True,2,"('age', 1, 27.0, False)",False,1935.9324911912076,2432.267145247659
+33,16,2,Lower confidence bound,False,0,,True,,
+33,16,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1779.6948634387256,1318.2420097034537
+33,16,3,Point estimate,True,1,"('education', 2, 9.0, False)",False,636.8151950862314,547.9167312700675
+33,16,3,Lower confidence bound,False,0,,True,,
+33,16,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1586.3076056682112,832.2222961234023
+33,16,4,Point estimate,False,0,,False,,
+33,16,4,Lower confidence bound,False,0,,True,,
+33,16,5,Unconstrained,True,6,"('re74', 7, 0.0, True)",False,1392.2670535897562,427.3301677230697
+33,16,5,Point estimate,False,0,,True,,
+33,16,5,Lower confidence bound,False,0,,True,,
+33,17,1,Unconstrained,True,7,"('education', 2, 10.0, False)",False,657.1476378467221,-850.3447162216762
+33,17,1,Point estimate,False,0,,False,,
+33,17,1,Lower confidence bound,False,0,,True,,
+33,17,2,Unconstrained,True,8,"('age', 1, 22.0, False)",False,959.0934848357019,2930.4049761071087
+33,17,2,Point estimate,True,1,"('age', 1, 22.0, False)",False,959.0934848357019,2930.4049761071087
+33,17,2,Lower confidence bound,False,0,,True,,
+33,17,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1880.9703154972658,1318.2420097034537
+33,17,3,Point estimate,False,0,,True,,
+33,17,3,Lower confidence bound,False,0,,True,,
+33,17,4,Unconstrained,True,6,"('education', 2, 9.0, False)",False,675.882598896102,1310.8537411666107
+33,17,4,Point estimate,True,1,"('age', 1, 21.0, False)",True,119.4137098905018,1271.4565612396902
+33,17,4,Lower confidence bound,False,0,,True,,
+33,17,5,Unconstrained,True,7,"('age', 1, 28.0, True)",False,1610.6653754134932,655.1468037238934
+33,17,5,Point estimate,False,0,,True,,
+33,17,5,Lower confidence bound,False,0,,True,,
+33,18,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1331.1100738527396,651.1596670539294
+33,18,1,Point estimate,True,1,"('age', 1, 26.22, False)",False,1159.5157724432684,496.0129507746904
+33,18,1,Lower confidence bound,False,0,,True,,
+33,18,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1692.3851028306385,2432.267145247659
+33,18,2,Point estimate,True,1,"('age', 1, 27.0, False)",False,1692.3851028306385,2432.267145247659
+33,18,2,Lower confidence bound,False,0,,True,,
+33,18,3,Unconstrained,True,7,"('age', 1, 27.0, False)",False,846.1308786556963,460.2443895532969
+33,18,3,Point estimate,False,0,,True,,
+33,18,3,Lower confidence bound,False,0,,True,,
+33,18,4,Unconstrained,True,7,"('education', 2, 9.0, False)",False,741.496630402952,1310.8537411666107
+33,18,4,Point estimate,False,0,,False,,
+33,18,4,Lower confidence bound,False,0,,True,,
+33,18,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1574.105007207801,427.3301677230697
+33,18,5,Point estimate,False,0,,True,,
+33,18,5,Lower confidence bound,False,0,,True,,
+33,19,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1539.6345065090184,651.1596670539294
+33,19,1,Point estimate,False,0,,False,,
+33,19,1,Lower confidence bound,False,0,,True,,
+33,19,2,Unconstrained,True,7,"('age', 1, 28.0, False)",False,1500.545663506389,485.71177598804576
+33,19,2,Point estimate,False,0,,True,,
+33,19,2,Lower confidence bound,False,0,,True,,
+33,19,3,Unconstrained,True,7,"('age', 1, 26.22, False)",False,1033.640691866422,296.06809260330215
+33,19,3,Point estimate,False,0,,True,,
+33,19,3,Lower confidence bound,False,0,,True,,
+33,19,4,Unconstrained,True,7,"('education', 2, 9.780000000000001, False)",False,896.180869679933,1310.8537411666107
+33,19,4,Point estimate,False,0,,False,,
+33,19,4,Lower confidence bound,False,0,,True,,
+33,19,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1512.9844008511013,139.46054704812857
+33,19,5,Point estimate,False,0,,True,,
+33,19,5,Lower confidence bound,False,0,,True,,
+33,20,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1477.4883176691267,651.1596670539294
+33,20,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1477.4883176691267,651.1596670539294
+33,20,1,Lower confidence bound,False,0,,True,,
+33,20,2,Unconstrained,True,8,"('re75', 8, 580.7901, False)",False,760.1357399523919,1796.3856793054392
+33,20,2,Point estimate,False,0,,True,,
+33,20,2,Lower confidence bound,False,0,,True,,
+33,20,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1739.645776735605,1318.2420097034537
+33,20,3,Point estimate,False,0,,True,,
+33,20,3,Lower confidence bound,False,0,,True,,
+33,20,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2087.866835204786,832.2222961234023
+33,20,4,Point estimate,False,0,,False,,
+33,20,4,Lower confidence bound,False,0,,True,,
+33,20,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1599.2150791807965,427.3301677230697
+33,20,5,Point estimate,False,0,,True,,
+33,20,5,Lower confidence bound,False,0,,True,,
+44,1,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1587.518542766707,651.1596670539294
+44,1,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1587.518542766707,651.1596670539294
+44,1,1,Lower confidence bound,False,0,,True,,
+44,1,2,Unconstrained,True,7,"('age', 1, 28.0, False)",False,1665.6834766520838,485.71177598804576
+44,1,2,Point estimate,True,1,"('age', 1, 22.0, False)",False,673.1670911900003,2930.4049761071087
+44,1,2,Lower confidence bound,False,0,,True,,
+44,1,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1549.6095105981033,1318.2420097034537
+44,1,3,Point estimate,False,0,,True,,
+44,1,3,Lower confidence bound,False,0,,True,,
+44,1,4,Unconstrained,True,6,"('age', 1, 28.0, False)",False,1868.517699557534,633.2603620134613
+44,1,4,Point estimate,False,0,,False,,
+44,1,4,Lower confidence bound,False,0,,True,,
+44,1,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1459.6542056269097,139.46054704812857
+44,1,5,Point estimate,False,0,,True,,
+44,1,5,Lower confidence bound,False,0,,True,,
+44,2,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1512.3376983868368,651.1596670539294
+44,2,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1512.3376983868368,651.1596670539294
+44,2,1,Lower confidence bound,False,0,,True,,
+44,2,2,Unconstrained,True,7,"('age', 1, 28.22, False)",False,2081.4530676802115,485.71177598804576
+44,2,2,Point estimate,True,2,"('age', 1, 28.22, False)",False,2081.4530676802115,485.71177598804576
+44,2,2,Lower confidence bound,False,0,,True,,
+44,2,3,Unconstrained,True,8,"('education', 2, 11.0, False)",True,1640.0490198809277,1318.2420097034537
+44,2,3,Point estimate,False,0,,True,,
+44,2,3,Lower confidence bound,False,0,,True,,
+44,2,4,Unconstrained,True,6,"('education', 2, 11.0, False)",False,874.8034156455897,2104.5906943709197
+44,2,4,Point estimate,True,1,"('age', 1, 22.0, True)",False,862.2103569491834,-361.00094944284587
+44,2,4,Lower confidence bound,False,0,,True,,
+44,2,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1539.094306810589,427.3301677230697
+44,2,5,Point estimate,True,1,"('age', 1, 22.0, False)",False,1043.6485386784952,526.170476246124
+44,2,5,Lower confidence bound,False,0,,True,,
+44,3,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1667.9026921714853,651.1596670539294
+44,3,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1667.9026921714853,651.1596670539294
+44,3,1,Lower confidence bound,False,0,,True,,
+44,3,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,325.76943688923745,-105.34470418399523
+44,3,2,Point estimate,False,0,,True,,
+44,3,2,Lower confidence bound,False,0,,True,,
+44,3,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1746.3991030897,1318.2420097034537
+44,3,3,Point estimate,False,0,,True,,
+44,3,3,Lower confidence bound,False,0,,True,,
+44,3,4,Unconstrained,True,7,"('education', 2, 10.0, False)",False,364.93823427545436,2178.1691008017356
+44,3,4,Point estimate,False,0,,False,,
+44,3,4,Lower confidence bound,False,0,,True,,
+44,3,5,Unconstrained,True,7,"('re75', 8, 474.5018, False)",False,886.3047830594747,-43.723911499372846
+44,3,5,Point estimate,False,0,,True,,
+44,3,5,Lower confidence bound,False,0,,True,,
+44,4,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1689.8364858584598,651.1596670539294
+44,4,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1689.8364858584598,651.1596670539294
+44,4,1,Lower confidence bound,False,0,,True,,
+44,4,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1699.0494307274505,2432.267145247659
+44,4,2,Point estimate,False,0,,True,,
+44,4,2,Lower confidence bound,False,0,,True,,
+44,4,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1531.025125220267,1318.2420097034537
+44,4,3,Point estimate,False,0,,True,,
+44,4,3,Lower confidence bound,False,0,,True,,
+44,4,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2077.9848513487923,832.2222961234023
+44,4,4,Point estimate,False,0,,False,,
+44,4,4,Lower confidence bound,False,0,,True,,
+44,4,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1478.6818482165793,139.46054704812857
+44,4,5,Point estimate,False,0,,True,,
+44,4,5,Lower confidence bound,False,0,,True,,
+44,5,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1501.2533886556885,651.1596670539294
+44,5,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1501.2533886556885,651.1596670539294
+44,5,1,Lower confidence bound,False,0,,True,,
+44,5,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,545.2534186558312,-105.34470418399523
+44,5,2,Point estimate,True,1,"('education', 2, 10.0, False)",False,406.14413791413733,2016.9583596631771
+44,5,2,Lower confidence bound,False,0,,True,,
+44,5,3,Unconstrained,True,7,"('age', 1, 21.0, True)",False,369.25541874999067,1344.0643343680931
+44,5,3,Point estimate,False,0,,True,,
+44,5,3,Lower confidence bound,False,0,,True,,
+44,5,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1776.2271371075833,832.2222961234023
+44,5,4,Point estimate,False,0,,False,,
+44,5,4,Lower confidence bound,False,0,,True,,
+44,5,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1281.1391765115782,427.3301677230697
+44,5,5,Point estimate,False,0,,True,,
+44,5,5,Lower confidence bound,False,0,,True,,
+44,6,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1440.0728710686483,651.1596670539294
+44,6,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1440.0728710686483,651.1596670539294
+44,6,1,Lower confidence bound,False,0,,True,,
+44,6,2,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2107.175621911648,2432.267145247659
+44,6,2,Point estimate,True,2,"('age', 1, 27.0, False)",False,2107.175621911648,2432.267145247659
+44,6,2,Lower confidence bound,False,0,,True,,
+44,6,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1462.1834726119648,1318.2420097034537
+44,6,3,Point estimate,False,0,,True,,
+44,6,3,Lower confidence bound,False,0,,True,,
+44,6,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2027.779970426172,832.2222961234023
+44,6,4,Point estimate,True,1,"('re74', 7, 0.0, True)",False,730.734781710279,1589.3680724304709
+44,6,4,Lower confidence bound,False,0,,True,,
+44,6,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1453.3584524210287,139.46054704812857
+44,6,5,Point estimate,False,0,,True,,
+44,6,5,Lower confidence bound,False,0,,True,,
+44,7,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1523.6028851062554,651.1596670539294
+44,7,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1523.6028851062554,651.1596670539294
+44,7,1,Lower confidence bound,False,0,,True,,
+44,7,2,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2532.848311868425,2432.267145247659
+44,7,2,Point estimate,True,1,"('re74', 7, 0.0, True)",False,347.0812151180673,-98.62910264716584
+44,7,2,Lower confidence bound,False,0,,True,,
+44,7,3,Unconstrained,True,7,"('age', 1, 26.0, False)",False,1123.3697470321474,296.06809260330215
+44,7,3,Point estimate,False,0,,True,,
+44,7,3,Lower confidence bound,False,0,,True,,
+44,7,4,Unconstrained,True,6,"('re74', 7, 0.0, True)",False,1076.8481286815504,1589.3680724304709
+44,7,4,Point estimate,True,1,"('re74', 7, 0.0, True)",False,1076.8481286815504,1589.3680724304709
+44,7,4,Lower confidence bound,False,0,,True,,
+44,7,5,Unconstrained,True,7,"('education', 2, 9.780000000000001, False)",False,1543.249220250364,139.46054704812857
+44,7,5,Point estimate,False,0,,True,,
+44,7,5,Lower confidence bound,False,0,,True,,
+44,8,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1491.7455041099215,651.1596670539294
+44,8,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1491.7455041099215,651.1596670539294
+44,8,1,Lower confidence bound,False,0,,True,,
+44,8,2,Unconstrained,True,6,"('age', 1, 26.0, False)",False,462.56303563077364,2533.5768169673934
+44,8,2,Point estimate,False,0,,True,,
+44,8,2,Lower confidence bound,False,0,,True,,
+44,8,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1470.2279703158902,1318.2420097034537
+44,8,3,Point estimate,False,0,,True,,
+44,8,3,Lower confidence bound,False,0,,True,,
+44,8,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2181.88553629636,832.2222961234023
+44,8,4,Point estimate,False,0,,False,,
+44,8,4,Lower confidence bound,False,0,,True,,
+44,8,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1328.5682943218592,427.3301677230697
+44,8,5,Point estimate,False,0,,True,,
+44,8,5,Lower confidence bound,False,0,,True,,
+44,9,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1609.6985805410045,651.1596670539294
+44,9,1,Point estimate,True,3,"('re74', 7, 0.0, True)",True,1609.6985805410045,651.1596670539294
+44,9,1,Lower confidence bound,False,0,,True,,
+44,9,2,Unconstrained,True,7,"('education', 2, 11.0, False)",False,605.4594569651401,1615.6960878348634
+44,9,2,Point estimate,True,1,"('education', 2, 10.0, False)",False,362.3314841413659,2016.9583596631771
+44,9,2,Lower confidence bound,False,0,,True,,
+44,9,3,Unconstrained,True,7,"('age', 1, 26.22, False)",False,744.5559336047231,296.06809260330215
+44,9,3,Point estimate,False,0,,True,,
+44,9,3,Lower confidence bound,False,0,,True,,
+44,9,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2111.7789687800637,832.2222961234023
+44,9,4,Point estimate,False,0,,False,,
+44,9,4,Lower confidence bound,False,0,,True,,
+44,9,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1546.0912628162532,427.3301677230697
+44,9,5,Point estimate,False,0,,True,,
+44,9,5,Lower confidence bound,False,0,,True,,
+44,10,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1488.1192834160472,651.1596670539294
+44,10,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1488.1192834160472,651.1596670539294
+44,10,1,Lower confidence bound,False,0,,True,,
+44,10,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1766.3891084692657,2432.267145247659
+44,10,2,Point estimate,False,0,,True,,
+44,10,2,Lower confidence bound,False,0,,True,,
+44,10,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1801.1651187876787,1318.2420097034537
+44,10,3,Point estimate,True,1,"('education', 2, 9.0, False)",False,575.7281509731899,547.9167312700675
+44,10,3,Lower confidence bound,False,0,,True,,
+44,10,4,Unconstrained,True,6,"('education', 2, 11.0, False)",False,736.2661015128639,2104.5906943709197
+44,10,4,Point estimate,False,0,,False,,
+44,10,4,Lower confidence bound,False,0,,True,,
+44,10,5,Unconstrained,True,8,"('re74', 7, 0.0, True)",False,1228.0818357127769,427.3301677230697
+44,10,5,Point estimate,False,0,,True,,
+44,10,5,Lower confidence bound,False,0,,True,,
+44,11,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1410.000257612097,651.1596670539294
+44,11,1,Point estimate,False,0,,False,,
+44,11,1,Lower confidence bound,False,0,,True,,
+44,11,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1734.39897620756,2432.267145247659
+44,11,2,Point estimate,True,1,"('age', 1, 22.0, False)",False,747.5246283763577,2930.4049761071087
+44,11,2,Lower confidence bound,False,0,,True,,
+44,11,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1252.7252127865308,1318.2420097034537
+44,11,3,Point estimate,False,0,,True,,
+44,11,3,Lower confidence bound,False,0,,True,,
+44,11,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2263.3648603769516,832.2222961234023
+44,11,4,Point estimate,True,2,"('age', 1, 27.0, False)",False,2263.3648603769516,832.2222961234023
+44,11,4,Lower confidence bound,False,0,,True,,
+44,11,5,Unconstrained,True,7,"('age', 1, 28.0, True)",False,1830.0707340752692,655.1468037238934
+44,11,5,Point estimate,True,1,"('age', 1, 21.0, False)",False,1328.8207403831314,533.2645137385915
+44,11,5,Lower confidence bound,False,0,,True,,
+44,12,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1251.6461058606646,651.1596670539294
+44,12,1,Point estimate,False,0,,False,,
+44,12,1,Lower confidence bound,False,0,,True,,
+44,12,2,Unconstrained,True,7,"('re75', 8, 391.2926479999999, False)",False,522.4583791874056,2069.4631794834254
+44,12,2,Point estimate,False,0,,True,,
+44,12,2,Lower confidence bound,False,0,,True,,
+44,12,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1442.7846581558108,1318.2420097034537
+44,12,3,Point estimate,False,0,,True,,
+44,12,3,Lower confidence bound,False,0,,True,,
+44,12,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1793.060694342196,832.2222961234023
+44,12,4,Point estimate,False,0,,False,,
+44,12,4,Lower confidence bound,False,0,,True,,
+44,12,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1556.5663512537842,139.46054704812857
+44,12,5,Point estimate,False,0,,True,,
+44,12,5,Lower confidence bound,False,0,,True,,
+44,13,1,Unconstrained,True,8,"('re74', 7, 0.0, True)",True,1432.5243506206573,651.1596670539294
+44,13,1,Point estimate,False,0,,False,,
+44,13,1,Lower confidence bound,False,0,,True,,
+44,13,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,316.40530958752714,-105.34470418399523
+44,13,2,Point estimate,False,0,,True,,
+44,13,2,Lower confidence bound,False,0,,True,,
+44,13,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1321.2181263437876,1318.2420097034537
+44,13,3,Point estimate,False,0,,True,,
+44,13,3,Lower confidence bound,False,0,,True,,
+44,13,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2119.321297681259,832.2222961234023
+44,13,4,Point estimate,True,1,"('age', 1, 20.78, False)",False,255.16402053496796,984.4122604343736
+44,13,4,Lower confidence bound,False,0,,True,,
+44,13,5,Unconstrained,True,7,"('age', 1, 21.0, False)",False,1227.5543792087744,533.2645137385915
+44,13,5,Point estimate,False,0,,True,,
+44,13,5,Lower confidence bound,False,0,,True,,
+44,14,1,Unconstrained,True,7,"('age', 1, 26.0, False)",False,1353.9533745162905,496.0129507746904
+44,14,1,Point estimate,True,1,"('age', 1, 26.0, False)",False,1353.9533745162905,496.0129507746904
+44,14,1,Lower confidence bound,False,0,,True,,
+44,14,2,Unconstrained,True,7,"('education', 2, 11.0, False)",False,523.2784921884352,1615.6960878348634
+44,14,2,Point estimate,False,0,,True,,
+44,14,2,Lower confidence bound,False,0,,True,,
+44,14,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1825.9398809142444,1318.2420097034537
+44,14,3,Point estimate,False,0,,True,,
+44,14,3,Lower confidence bound,False,0,,True,,
+44,14,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1844.69809760161,832.2222961234023
+44,14,4,Point estimate,False,0,,False,,
+44,14,4,Lower confidence bound,False,0,,True,,
+44,14,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1336.1689880244244,427.3301677230697
+44,14,5,Point estimate,False,0,,True,,
+44,14,5,Lower confidence bound,False,0,,True,,
+44,15,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1513.3232627830114,651.1596670539294
+44,15,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1513.3232627830114,651.1596670539294
+44,15,1,Lower confidence bound,False,0,,True,,
+44,15,2,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1993.986326644662,2432.267145247659
+44,15,2,Point estimate,True,1,"('age', 1, 27.0, False)",False,1993.986326644662,2432.267145247659
+44,15,2,Lower confidence bound,False,0,,True,,
+44,15,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1626.5990760047996,1318.2420097034537
+44,15,3,Point estimate,False,0,,True,,
+44,15,3,Lower confidence bound,False,0,,True,,
+44,15,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2092.5394749775382,832.2222961234023
+44,15,4,Point estimate,False,0,,False,,
+44,15,4,Lower confidence bound,False,0,,True,,
+44,15,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1566.5171516348187,139.46054704812857
+44,15,5,Point estimate,False,0,,True,,
+44,15,5,Lower confidence bound,False,0,,True,,
+44,16,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1645.3822301448565,651.1596670539294
+44,16,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1645.3822301448565,651.1596670539294
+44,16,1,Lower confidence bound,False,0,,True,,
+44,16,2,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1927.1298486806932,2432.267145247659
+44,16,2,Point estimate,False,0,,True,,
+44,16,2,Lower confidence bound,False,0,,True,,
+44,16,3,Unconstrained,True,7,"('age', 1, 27.0, False)",False,759.0071534184071,460.2443895532969
+44,16,3,Point estimate,False,0,,True,,
+44,16,3,Lower confidence bound,False,0,,True,,
+44,16,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2049.736411394559,832.2222961234023
+44,16,4,Point estimate,False,0,,False,,
+44,16,4,Lower confidence bound,False,0,,True,,
+44,16,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1583.5374729624868,427.3301677230697
+44,16,5,Point estimate,False,0,,True,,
+44,16,5,Lower confidence bound,False,0,,True,,
+44,17,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1251.8811667102373,651.1596670539294
+44,17,1,Point estimate,False,0,,False,,
+44,17,1,Lower confidence bound,False,0,,True,,
+44,17,2,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,504.62629242271146,-98.62910264716584
+44,17,2,Point estimate,False,0,,True,,
+44,17,2,Lower confidence bound,False,0,,True,,
+44,17,3,Unconstrained,True,6,"('re75', 8, 0.0, False)",False,860.4189623762861,657.0674358251639
+44,17,3,Point estimate,False,0,,True,,
+44,17,3,Lower confidence bound,False,0,,True,,
+44,17,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1933.857846437323,832.2222961234023
+44,17,4,Point estimate,False,0,,False,,
+44,17,4,Lower confidence bound,False,0,,True,,
+44,17,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1404.8600807639534,427.3301677230697
+44,17,5,Point estimate,False,0,,True,,
+44,17,5,Lower confidence bound,False,0,,True,,
+44,18,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1421.0017416842838,651.1596670539294
+44,18,1,Point estimate,False,0,,False,,
+44,18,1,Lower confidence bound,False,0,,True,,
+44,18,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1468.0634003382486,2432.267145247659
+44,18,2,Point estimate,True,1,"('age', 1, 22.0, False)",False,592.7835352218818,2930.4049761071087
+44,18,2,Lower confidence bound,False,0,,True,,
+44,18,3,Unconstrained,True,6,"('age', 1, 27.0, False)",False,1037.531593062229,460.2443895532969
+44,18,3,Point estimate,False,0,,True,,
+44,18,3,Lower confidence bound,False,0,,True,,
+44,18,4,Unconstrained,True,6,"('education', 2, 11.0, False)",False,621.7986561778686,2104.5906943709197
+44,18,4,Point estimate,False,0,,False,,
+44,18,4,Lower confidence bound,False,0,,True,,
+44,18,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1433.530172783044,427.3301677230697
+44,18,5,Point estimate,False,0,,True,,
+44,18,5,Lower confidence bound,False,0,,True,,
+44,19,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1620.1757827998565,651.1596670539294
+44,19,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1620.1757827998565,651.1596670539294
+44,19,1,Lower confidence bound,False,0,,True,,
+44,19,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1885.1102870263344,2432.267145247659
+44,19,2,Point estimate,False,0,,True,,
+44,19,2,Lower confidence bound,False,0,,True,,
+44,19,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1569.519572983173,1318.2420097034537
+44,19,3,Point estimate,False,0,,True,,
+44,19,3,Lower confidence bound,False,0,,True,,
+44,19,4,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,819.5268862434094,1589.3680724304709
+44,19,4,Point estimate,True,1,"('age', 1, 21.0, False)",True,624.7616239580549,1271.4565612396902
+44,19,4,Lower confidence bound,False,0,,True,,
+44,19,5,Unconstrained,True,7,"('age', 1, 21.0, False)",False,1015.7033645472144,533.2645137385915
+44,19,5,Point estimate,False,0,,True,,
+44,19,5,Lower confidence bound,False,0,,True,,
+44,20,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1693.9658428069272,651.1596670539294
+44,20,1,Point estimate,True,3,"('re74', 7, 0.0, True)",True,1693.9658428069272,651.1596670539294
+44,20,1,Lower confidence bound,False,0,,True,,
+44,20,2,Unconstrained,True,7,"('education', 2, 11.0, False)",False,455.48952587032005,1615.6960878348634
+44,20,2,Point estimate,True,1,"('age', 1, 21.0, False)",False,386.95811083104326,2861.462843000834
+44,20,2,Lower confidence bound,False,0,,True,,
+44,20,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1577.7888069626406,1318.2420097034537
+44,20,3,Point estimate,False,0,,True,,
+44,20,3,Lower confidence bound,False,0,,True,,
+44,20,4,Unconstrained,True,6,"('age', 1, 27.22, False)",False,1885.4343029852137,832.2222961234023
+44,20,4,Point estimate,False,0,,False,,
+44,20,4,Lower confidence bound,False,0,,True,,
+44,20,5,Unconstrained,True,7,"('re75', 8, 603.5756839999999, True)",False,971.125076663745,-199.49210969724945
+44,20,5,Point estimate,False,0,,True,,
+44,20,5,Lower confidence bound,False,0,,True,,
+55,1,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1548.2150803030588,651.1596670539294
+55,1,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1548.2150803030588,651.1596670539294
+55,1,1,Lower confidence bound,False,0,,True,,
+55,1,2,Unconstrained,True,8,"('age', 1, 26.0, False)",False,586.0539495804605,2533.5768169673934
+55,1,2,Point estimate,False,0,,True,,
+55,1,2,Lower confidence bound,False,0,,True,,
+55,1,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1514.3689728375998,1318.2420097034537
+55,1,3,Point estimate,False,0,,True,,
+55,1,3,Lower confidence bound,False,0,,True,,
+55,1,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1403.4045238776787,832.2222961234023
+55,1,4,Point estimate,False,0,,False,,
+55,1,4,Lower confidence bound,False,0,,True,,
+55,1,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1494.8485139384984,139.46054704812857
+55,1,5,Point estimate,False,0,,True,,
+55,1,5,Lower confidence bound,False,0,,True,,
+55,2,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1472.0432411723575,651.1596670539294
+55,2,1,Point estimate,False,0,,False,,
+55,2,1,Lower confidence bound,False,0,,True,,
+55,2,2,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1883.2408848630664,2432.267145247659
+55,2,2,Point estimate,True,1,"('age', 1, 27.0, False)",False,1883.2408848630664,2432.267145247659
+55,2,2,Lower confidence bound,False,0,,True,,
+55,2,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1756.3853729331495,1318.2420097034537
+55,2,3,Point estimate,False,0,,True,,
+55,2,3,Lower confidence bound,False,0,,True,,
+55,2,4,Unconstrained,True,7,"('education', 2, 9.0, False)",False,843.6937614654579,1310.8537411666107
+55,2,4,Point estimate,True,1,"('age', 1, 21.0, False)",True,361.4254224170505,1271.4565612396902
+55,2,4,Lower confidence bound,False,0,,True,,
+55,2,5,Unconstrained,True,7,"('education', 2, 11.0, True)",False,1695.2489929573735,638.2191142704936
+55,2,5,Point estimate,False,0,,True,,
+55,2,5,Lower confidence bound,False,0,,True,,
+55,3,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1480.5328617088344,651.1596670539294
+55,3,1,Point estimate,False,0,,False,,
+55,3,1,Lower confidence bound,False,0,,True,,
+55,3,2,Unconstrained,True,6,"('age', 1, 26.0, False)",False,857.2392375367099,2533.5768169673934
+55,3,2,Point estimate,False,0,,True,,
+55,3,2,Lower confidence bound,False,0,,True,,
+55,3,3,Unconstrained,True,6,"('education', 2, 11.0, False)",True,1485.4010704727928,1318.2420097034537
+55,3,3,Point estimate,False,0,,True,,
+55,3,3,Lower confidence bound,False,0,,True,,
+55,3,4,Unconstrained,True,6,"('education', 2, 10.0, False)",False,405.8784002344981,2178.1691008017356
+55,3,4,Point estimate,False,0,,False,,
+55,3,4,Lower confidence bound,False,0,,True,,
+55,3,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1569.3360134840655,427.3301677230697
+55,3,5,Point estimate,False,0,,True,,
+55,3,5,Lower confidence bound,False,0,,True,,
+55,4,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1381.648062676785,651.1596670539294
+55,4,1,Point estimate,False,0,,False,,
+55,4,1,Lower confidence bound,False,0,,True,,
+55,4,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1954.5145881648818,2432.267145247659
+55,4,2,Point estimate,False,0,,True,,
+55,4,2,Lower confidence bound,False,0,,True,,
+55,4,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1761.256003700217,1318.2420097034537
+55,4,3,Point estimate,False,0,,True,,
+55,4,3,Lower confidence bound,False,0,,True,,
+55,4,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,2069.6627344031754,832.2222961234023
+55,4,4,Point estimate,False,0,,False,,
+55,4,4,Lower confidence bound,False,0,,True,,
+55,4,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1485.2310787998836,427.3301677230697
+55,4,5,Point estimate,False,0,,True,,
+55,4,5,Lower confidence bound,False,0,,True,,
+55,5,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1461.384072305869,651.1596670539294
+55,5,1,Point estimate,False,0,,False,,
+55,5,1,Lower confidence bound,False,0,,True,,
+55,5,2,Unconstrained,True,8,"('age', 1, 27.22, True)",False,376.7359969027389,-105.34470418399523
+55,5,2,Point estimate,False,0,,True,,
+55,5,2,Lower confidence bound,False,0,,True,,
+55,5,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1641.3973499046353,1318.2420097034537
+55,5,3,Point estimate,False,0,,True,,
+55,5,3,Lower confidence bound,False,0,,True,,
+55,5,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2096.4907614453173,832.2222961234023
+55,5,4,Point estimate,True,2,"('age', 1, 27.0, False)",False,2096.4907614453173,832.2222961234023
+55,5,4,Lower confidence bound,False,0,,True,,
+55,5,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1480.2316295531914,427.3301677230697
+55,5,5,Point estimate,False,0,,True,,
+55,5,5,Lower confidence bound,False,0,,True,,
+55,6,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1544.2789016250144,651.1596670539294
+55,6,1,Point estimate,False,0,,False,,
+55,6,1,Lower confidence bound,False,0,,True,,
+55,6,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,567.8784000234185,-105.34470418399523
+55,6,2,Point estimate,False,0,,True,,
+55,6,2,Lower confidence bound,False,0,,True,,
+55,6,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1712.6644916834553,1318.2420097034537
+55,6,3,Point estimate,False,0,,True,,
+55,6,3,Lower confidence bound,False,0,,True,,
+55,6,4,Unconstrained,True,7,"('education', 2, 11.0, False)",False,503.23044408495315,2104.5906943709197
+55,6,4,Point estimate,False,0,,False,,
+55,6,4,Lower confidence bound,False,0,,True,,
+55,6,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1418.5617271891515,427.3301677230697
+55,6,5,Point estimate,False,0,,True,,
+55,6,5,Lower confidence bound,False,0,,True,,
+55,7,1,Unconstrained,True,7,"('education', 2, 10.0, False)",False,626.1686604388843,-850.3447162216762
+55,7,1,Point estimate,False,0,,False,,
+55,7,1,Lower confidence bound,False,0,,True,,
+55,7,2,Unconstrained,True,6,"('education', 2, 11.0, False)",False,396.9780220971644,1615.6960878348634
+55,7,2,Point estimate,False,0,,True,,
+55,7,2,Lower confidence bound,False,0,,True,,
+55,7,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1488.7901545556142,1318.2420097034537
+55,7,3,Point estimate,False,0,,True,,
+55,7,3,Lower confidence bound,False,0,,True,,
+55,7,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1749.5824742468317,832.2222961234023
+55,7,4,Point estimate,False,0,,False,,
+55,7,4,Lower confidence bound,False,0,,True,,
+55,7,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1459.0204626959217,427.3301677230697
+55,7,5,Point estimate,False,0,,True,,
+55,7,5,Lower confidence bound,False,0,,True,,
+55,8,1,Unconstrained,True,8,"('re74', 7, 0.0, True)",True,1458.006130691364,651.1596670539294
+55,8,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1458.006130691364,651.1596670539294
+55,8,1,Lower confidence bound,False,0,,True,,
+55,8,2,Unconstrained,True,7,"('education', 2, 11.0, False)",False,581.9502934984498,1615.6960878348634
+55,8,2,Point estimate,False,0,,True,,
+55,8,2,Lower confidence bound,False,0,,True,,
+55,8,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1421.4097474213352,1318.2420097034537
+55,8,3,Point estimate,True,1,"('education', 2, 9.0, False)",False,535.0349236195565,547.9167312700675
+55,8,3,Lower confidence bound,False,0,,True,,
+55,8,4,Unconstrained,True,6,"('education', 2, 11.0, False)",False,433.1789913087858,2104.5906943709197
+55,8,4,Point estimate,False,0,,False,,
+55,8,4,Lower confidence bound,False,0,,True,,
+55,8,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1404.2617905992022,139.46054704812857
+55,8,5,Point estimate,False,0,,True,,
+55,8,5,Lower confidence bound,False,0,,True,,
+55,9,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1389.0203126959689,651.1596670539294
+55,9,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1389.0203126959689,651.1596670539294
+55,9,1,Lower confidence bound,False,0,,True,,
+55,9,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,518.0267191307192,-105.34470418399523
+55,9,2,Point estimate,False,0,,True,,
+55,9,2,Lower confidence bound,False,0,,True,,
+55,9,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1731.0936208937455,1318.2420097034537
+55,9,3,Point estimate,False,0,,True,,
+55,9,3,Lower confidence bound,False,0,,True,,
+55,9,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1824.3961833219548,832.2222961234023
+55,9,4,Point estimate,True,1,"('age', 1, 21.0, False)",True,109.11068766437833,1271.4565612396902
+55,9,4,Lower confidence bound,False,0,,True,,
+55,9,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1579.3636165546195,427.3301677230697
+55,9,5,Point estimate,False,0,,True,,
+55,9,5,Lower confidence bound,False,0,,True,,
+55,10,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1366.98791654825,651.1596670539294
+55,10,1,Point estimate,True,1,"('age', 1, 26.0, False)",False,1365.663602138465,496.0129507746904
+55,10,1,Lower confidence bound,False,0,,True,,
+55,10,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1869.8781558109383,2432.267145247659
+55,10,2,Point estimate,True,1,"('age', 1, 21.0, False)",False,446.10200725334283,2861.462843000834
+55,10,2,Lower confidence bound,False,0,,True,,
+55,10,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1509.3649792738129,1318.2420097034537
+55,10,3,Point estimate,False,0,,True,,
+55,10,3,Lower confidence bound,False,0,,True,,
+55,10,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1984.274905799459,832.2222961234023
+55,10,4,Point estimate,False,0,,False,,
+55,10,4,Lower confidence bound,False,0,,True,,
+55,10,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1647.9288840529737,139.46054704812857
+55,10,5,Point estimate,True,1,"('age', 1, 23.0, False)",False,662.1716944564293,-132.23799840478702
+55,10,5,Lower confidence bound,False,0,,True,,
+55,11,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1541.4747107132644,651.1596670539294
+55,11,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1541.4747107132644,651.1596670539294
+55,11,1,Lower confidence bound,False,0,,True,,
+55,11,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1669.418273858742,2432.267145247659
+55,11,2,Point estimate,True,1,"('age', 1, 21.0, False)",False,235.49890769823617,2861.462843000834
+55,11,2,Lower confidence bound,False,0,,True,,
+55,11,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1879.5981763635032,1318.2420097034537
+55,11,3,Point estimate,False,0,,True,,
+55,11,3,Lower confidence bound,False,0,,True,,
+55,11,4,Unconstrained,True,6,"('education', 2, 10.0, False)",False,186.4666245856515,2178.1691008017356
+55,11,4,Point estimate,False,0,,False,,
+55,11,4,Lower confidence bound,False,0,,True,,
+55,11,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1638.4471072903523,427.3301677230697
+55,11,5,Point estimate,False,0,,True,,
+55,11,5,Lower confidence bound,False,0,,True,,
+55,12,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1657.077704853708,651.1596670539294
+55,12,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1657.077704853708,651.1596670539294
+55,12,1,Lower confidence bound,False,0,,True,,
+55,12,2,Unconstrained,True,8,"('age', 1, 28.0, False)",False,1778.6861698586235,485.71177598804576
+55,12,2,Point estimate,True,1,"('age', 1, 22.0, False)",False,781.4128555433473,2930.4049761071087
+55,12,2,Lower confidence bound,False,0,,True,,
+55,12,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1596.9276086111927,1318.2420097034537
+55,12,3,Point estimate,False,0,,True,,
+55,12,3,Lower confidence bound,False,0,,True,,
+55,12,4,Unconstrained,True,6,"('education', 2, 11.0, False)",False,720.4945301764166,2104.5906943709197
+55,12,4,Point estimate,False,0,,False,,
+55,12,4,Lower confidence bound,False,0,,True,,
+55,12,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1744.9311900664732,427.3301677230697
+55,12,5,Point estimate,True,1,"('age', 1, 21.0, False)",False,1309.1172409308822,533.2645137385915
+55,12,5,Lower confidence bound,False,0,,True,,
+55,13,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1371.3332700252388,651.1596670539294
+55,13,1,Point estimate,True,1,"('age', 1, 26.0, False)",False,1100.1443107323623,496.0129507746904
+55,13,1,Lower confidence bound,False,0,,True,,
+55,13,2,Unconstrained,True,7,"('education', 2, 11.0, False)",False,606.0705958021244,1615.6960878348634
+55,13,2,Point estimate,True,2,"('age', 1, 27.0, True)",False,536.0121517942879,-105.34470418399523
+55,13,2,Lower confidence bound,False,0,,True,,
+55,13,3,Unconstrained,True,7,"('age', 1, 27.22, False)",False,960.0805983368576,460.2443895532969
+55,13,3,Point estimate,False,0,,True,,
+55,13,3,Lower confidence bound,False,0,,True,,
+55,13,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,2212.680663542592,832.2222961234023
+55,13,4,Point estimate,False,0,,False,,
+55,13,4,Lower confidence bound,False,0,,True,,
+55,13,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1681.8457463801053,427.3301677230697
+55,13,5,Point estimate,False,0,,True,,
+55,13,5,Lower confidence bound,False,0,,True,,
+55,14,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1733.219622091206,651.1596670539294
+55,14,1,Point estimate,True,3,"('re74', 7, 0.0, True)",True,1733.219622091206,651.1596670539294
+55,14,1,Lower confidence bound,False,0,,True,,
+55,14,2,Unconstrained,True,6,"('age', 1, 27.0, True)",False,312.58465976811414,-105.34470418399523
+55,14,2,Point estimate,False,0,,True,,
+55,14,2,Lower confidence bound,False,0,,True,,
+55,14,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1646.3361634688656,1318.2420097034537
+55,14,3,Point estimate,False,0,,True,,
+55,14,3,Lower confidence bound,False,0,,True,,
+55,14,4,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,684.6930239478924,1589.3680724304709
+55,14,4,Point estimate,False,0,,False,,
+55,14,4,Lower confidence bound,False,0,,True,,
+55,14,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1509.472180041842,139.46054704812857
+55,14,5,Point estimate,False,0,,True,,
+55,14,5,Lower confidence bound,False,0,,True,,
+55,15,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1686.6532199059873,651.1596670539294
+55,15,1,Point estimate,True,2,"('re74', 7, 0.0, True)",True,1686.6532199059873,651.1596670539294
+55,15,1,Lower confidence bound,False,0,,True,,
+55,15,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1476.294643706552,2432.267145247659
+55,15,2,Point estimate,True,1,"('age', 1, 22.0, False)",False,650.8859177701083,2930.4049761071087
+55,15,2,Lower confidence bound,False,0,,True,,
+55,15,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1738.0050048400783,1318.2420097034537
+55,15,3,Point estimate,False,0,,True,,
+55,15,3,Lower confidence bound,False,0,,True,,
+55,15,4,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,897.7839141432662,1589.3680724304709
+55,15,4,Point estimate,True,1,"('re74', 7, 0.0, True)",False,897.7839141432662,1589.3680724304709
+55,15,4,Lower confidence bound,False,0,,True,,
+55,15,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1608.678035638142,139.46054704812857
+55,15,5,Point estimate,False,0,,True,,
+55,15,5,Lower confidence bound,False,0,,True,,
+55,16,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1559.2358473451593,651.1596670539294
+55,16,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1559.2358473451593,651.1596670539294
+55,16,1,Lower confidence bound,False,0,,True,,
+55,16,2,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1660.9642826426207,2432.267145247659
+55,16,2,Point estimate,False,0,,True,,
+55,16,2,Lower confidence bound,False,0,,True,,
+55,16,3,Unconstrained,True,7,"('age', 1, 27.0, False)",False,755.3794740113676,460.2443895532969
+55,16,3,Point estimate,False,0,,True,,
+55,16,3,Lower confidence bound,False,0,,True,,
+55,16,4,Unconstrained,True,6,"('age', 1, 26.0, False)",False,1007.1970098772432,1607.7404413540648
+55,16,4,Point estimate,False,0,,False,,
+55,16,4,Lower confidence bound,False,0,,True,,
+55,16,5,Unconstrained,True,7,"('education', 2, 9.0, False)",True,1575.1759036563403,139.46054704812857
+55,16,5,Point estimate,False,0,,True,,
+55,16,5,Lower confidence bound,False,0,,True,,
+55,17,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1240.1983724205247,651.1596670539294
+55,17,1,Point estimate,False,0,,False,,
+55,17,1,Lower confidence bound,False,0,,True,,
+55,17,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,478.47325835248415,-105.34470418399523
+55,17,2,Point estimate,False,0,,True,,
+55,17,2,Lower confidence bound,False,0,,True,,
+55,17,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1482.8111984150185,1318.2420097034537
+55,17,3,Point estimate,False,0,,True,,
+55,17,3,Lower confidence bound,False,0,,True,,
+55,17,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1959.6549822072154,832.2222961234023
+55,17,4,Point estimate,True,1,"('age', 1, 27.0, False)",False,1959.6549822072154,832.2222961234023
+55,17,4,Lower confidence bound,False,0,,True,,
+55,17,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1456.9862387730793,427.3301677230697
+55,17,5,Point estimate,True,1,"('age', 1, 23.0, False)",False,600.0606185525863,-132.23799840478702
+55,17,5,Lower confidence bound,False,0,,True,,
+55,18,1,Unconstrained,True,7,"('re74', 7, 0.0, True)",True,1654.219641465469,651.1596670539294
+55,18,1,Point estimate,True,1,"('re74', 7, 0.0, True)",True,1654.219641465469,651.1596670539294
+55,18,1,Lower confidence bound,False,0,,True,,
+55,18,2,Unconstrained,True,7,"('age', 1, 26.22, False)",False,461.03496493645446,2533.5768169673934
+55,18,2,Point estimate,False,0,,True,,
+55,18,2,Lower confidence bound,False,0,,True,,
+55,18,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1444.034839621378,1318.2420097034537
+55,18,3,Point estimate,False,0,,True,,
+55,18,3,Lower confidence bound,False,0,,True,,
+55,18,4,Unconstrained,True,6,"('age', 1, 28.0, False)",False,1574.9010562709902,633.2603620134613
+55,18,4,Point estimate,False,0,,False,,
+55,18,4,Lower confidence bound,False,0,,True,,
+55,18,5,Unconstrained,True,7,"('age', 1, 28.0, True)",False,1396.3278482520282,655.1468037238934
+55,18,5,Point estimate,False,0,,True,,
+55,18,5,Lower confidence bound,False,0,,True,,
+55,19,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1434.5959352147756,651.1596670539294
+55,19,1,Point estimate,False,0,,False,,
+55,19,1,Lower confidence bound,False,0,,True,,
+55,19,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,493.77347754511686,-105.34470418399523
+55,19,2,Point estimate,False,0,,True,,
+55,19,2,Lower confidence bound,False,0,,True,,
+55,19,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1635.2122482322084,1318.2420097034537
+55,19,3,Point estimate,False,0,,True,,
+55,19,3,Lower confidence bound,False,0,,True,,
+55,19,4,Unconstrained,True,6,"('age', 1, 27.0, False)",True,1979.988416132515,832.2222961234023
+55,19,4,Point estimate,False,0,,False,,
+55,19,4,Lower confidence bound,False,0,,True,,
+55,19,5,Unconstrained,True,7,"('re74', 7, 0.0, True)",False,1474.361905753961,427.3301677230697
+55,19,5,Point estimate,False,0,,True,,
+55,19,5,Lower confidence bound,False,0,,True,,
+55,20,1,Unconstrained,True,6,"('re74', 7, 0.0, True)",True,1349.1038615882678,651.1596670539294
+55,20,1,Point estimate,False,0,,False,,
+55,20,1,Lower confidence bound,False,0,,True,,
+55,20,2,Unconstrained,True,7,"('age', 1, 27.0, True)",False,492.08677016770434,-105.34470418399523
+55,20,2,Point estimate,True,1,"('age', 1, 21.0, False)",False,284.06040935925614,2861.462843000834
+55,20,2,Lower confidence bound,False,0,,True,,
+55,20,3,Unconstrained,True,7,"('education', 2, 11.0, False)",True,1661.4160231793917,1318.2420097034537
+55,20,3,Point estimate,False,0,,True,,
+55,20,3,Lower confidence bound,False,0,,True,,
+55,20,4,Unconstrained,True,7,"('age', 1, 27.0, False)",True,1588.059340001039,832.2222961234023
+55,20,4,Point estimate,False,0,,False,,
+55,20,4,Lower confidence bound,False,0,,True,,
+55,20,5,Unconstrained,True,7,"('education', 2, 9.780000000000001, False)",False,1479.856886878685,139.46054704812857
+55,20,5,Point estimate,False,0,,True,,
+55,20,5,Lower confidence bound,False,0,,True,,

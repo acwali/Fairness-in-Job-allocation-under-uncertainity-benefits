@@ -1,0 +1,133 @@
+capacity_pct,policy,audit,group,n_eligible,exploratory_n_lt_30,allocated_mean_over_seeds,allocation_pct,incremental_benefit_per_eligible,benefit_ci95_lower,benefit_ci95_upper,valid_bootstrap_replicates
+20,Random allocation,race,Black,371,False,70.8,19.08,117.55,-241.11,481.6,2000
+20,Random allocation,race,Hispanic,39,False,8.0,20.51,-88.63,-1046.01,747.0,2000
+20,Random allocation,race,Neither indicator recorded,35,False,6.2,17.71,-15.41,-1046.07,1000.89,2000
+20,Random allocation,age,25 and over,218,False,45.8,21.01,217.83,-359.16,793.51,2000
+20,Random allocation,age,Under 25,227,False,39.2,17.27,-34.67,-335.76,248.09,2000
+20,Random allocation,race_by_age,Black / 25 and over,191,False,39.0,20.42,304.29,-313.63,932.62,2000
+20,Random allocation,race_by_age,Black / Under 25,180,False,31.8,17.67,-80.59,-442.15,263.74,2000
+20,Random allocation,race_by_age,Hispanic / 25 and over,12,True,3.2,26.67,-111.43,-2943.61,2554.65,2000
+20,Random allocation,race_by_age,Hispanic / Under 25,27,True,4.8,17.78,-78.5,-589.12,406.23,2000
+20,Random allocation,race_by_age,Neither indicator recorded / 25 and over,15,True,3.6,24.0,-619.65,-2608.27,1349.04,2000
+20,Random allocation,race_by_age,Neither indicator recorded / Under 25,20,True,2.6,13.0,437.77,-386.18,1421.93,2000
+20,Predicted post-training earnings,race,Black,371,False,59.0,15.9,33.59,-559.99,688.79,2000
+20,Predicted post-training earnings,race,Hispanic,39,False,11.0,28.21,-642.18,-2935.71,1446.99,2000
+20,Predicted post-training earnings,race,Neither indicator recorded,35,False,15.0,42.86,-1735.82,-4405.34,834.42,2000
+20,Predicted post-training earnings,age,25 and over,218,False,68.0,31.19,323.38,-766.92,1487.96,2000
+20,Predicted post-training earnings,age,Under 25,227,False,17.0,7.49,-633.63,-1170.17,-198.47,2000
+20,Predicted post-training earnings,race_by_age,Black / 25 and over,191,False,52.0,27.23,505.57,-617.97,1710.52,2000
+20,Predicted post-training earnings,race_by_age,Black / Under 25,180,False,7.0,3.89,-467.23,-956.91,-94.75,2000
+20,Predicted post-training earnings,race_by_age,Hispanic / 25 and over,12,True,7.0,58.33,1888.0,-3114.92,7004.71,2000
+20,Predicted post-training earnings,race_by_age,Hispanic / Under 25,27,True,4.0,14.81,-1766.7,-4414.54,131.91,2000
+20,Predicted post-training earnings,race_by_age,Neither indicator recorded / 25 and over,15,True,9.0,60.0,-3248.14,-8361.97,2034.88,2000
+20,Predicted post-training earnings,race_by_age,Neither indicator recorded / Under 25,20,True,6.0,30.0,-601.58,-2884.92,1436.61,2000
+20,Estimated treatment benefit,race,Black,371,False,80.0,21.56,103.88,-608.16,817.8,2000
+20,Estimated treatment benefit,race,Hispanic,39,False,2.0,5.13,-107.65,-443.63,86.78,2000
+20,Estimated treatment benefit,race,Neither indicator recorded,35,False,3.0,8.57,-671.86,-2443.72,619.58,2000
+20,Estimated treatment benefit,age,25 and over,218,False,68.0,31.19,315.55,-806.72,1488.93,2000
+20,Estimated treatment benefit,age,Under 25,227,False,17.0,7.49,-255.35,-715.28,233.34,2000
+20,Estimated treatment benefit,race_by_age,Black / 25 and over,191,False,64.0,33.51,476.76,-783.58,1799.13,2000
+20,Estimated treatment benefit,race_by_age,Black / Under 25,180,False,16.0,8.89,-291.79,-883.44,333.17,2000
+20,Estimated treatment benefit,race_by_age,Hispanic / 25 and over,12,True,1.0,8.33,103.65,0.0,339.22,2000
+20,Estimated treatment benefit,race_by_age,Hispanic / Under 25,27,True,1.0,3.7,-201.56,-680.28,0.0,2000
+20,Estimated treatment benefit,race_by_age,Neither indicator recorded / 25 and over,15,True,3.0,20.0,-1567.67,-5531.89,1591.63,2000
+20,Estimated treatment benefit,race_by_age,Neither indicator recorded / Under 25,20,True,0.0,0.0,0.0,0.0,0.0,2000
+20,Equal race allocation rate,race,Black,371,False,71.0,19.14,-126.12,-725.58,460.82,2000
+20,Equal race allocation rate,race,Hispanic,39,False,8.0,20.51,127.85,-1471.37,1642.02,2000
+20,Equal race allocation rate,race,Neither indicator recorded,35,False,6.0,17.14,-148.43,-2169.79,1550.58,2000
+20,Equal race allocation rate,age,25 and over,218,False,67.0,30.73,73.21,-923.45,1020.47,2000
+20,Equal race allocation rate,age,Under 25,227,False,18.0,7.93,-277.36,-762.23,152.01,2000
+20,Equal race allocation rate,race_by_age,Black / 25 and over,191,False,60.0,31.41,101.94,-986.68,1197.3,2000
+20,Equal race allocation rate,race_by_age,Black / Under 25,180,False,11.0,6.11,-368.12,-830.1,51.77,2000
+20,Equal race allocation rate,race_by_age,Hispanic / 25 and over,12,True,4.0,33.33,1667.01,-249.27,4348.08,2000
+20,Equal race allocation rate,race_by_age,Hispanic / Under 25,27,True,4.0,14.81,-556.22,-2693.36,1038.48,2000
+20,Equal race allocation rate,race_by_age,Neither indicator recorded / 25 and over,15,True,3.0,20.0,-1567.67,-5531.89,1591.63,2000
+20,Equal race allocation rate,race_by_age,Neither indicator recorded / Under 25,20,True,3.0,15.0,916.0,-391.48,2689.55,2000
+40,Random allocation,race,Black,371,False,147.4,39.73,293.45,-363.22,992.5,2000
+40,Random allocation,race,Hispanic,39,False,13.8,35.38,288.3,-991.89,1510.14,2000
+40,Random allocation,race,Neither indicator recorded,35,False,13.8,39.43,-49.37,-1953.78,1786.06,2000
+40,Random allocation,age,25 and over,218,False,89.2,40.92,592.31,-485.68,1755.03,2000
+40,Random allocation,age,Under 25,227,False,85.8,37.8,-47.3,-581.9,473.62,2000
+40,Random allocation,race_by_age,Black / 25 and over,191,False,77.4,40.52,686.75,-428.86,1958.32,2000
+40,Random allocation,race_by_age,Black / Under 25,180,False,70.0,38.89,-123.89,-739.85,484.7,2000
+40,Random allocation,race_by_age,Hispanic / 25 and over,12,True,4.8,40.0,1324.53,-2500.76,4738.45,2000
+40,Random allocation,race_by_age,Hispanic / Under 25,27,True,9.0,33.33,-172.25,-1064.69,793.14,2000
+40,Random allocation,race_by_age,Neither indicator recorded / 25 and over,15,True,7.0,46.67,-1196.02,-4743.83,2415.67,2000
+40,Random allocation,race_by_age,Neither indicator recorded / Under 25,20,True,6.8,34.0,810.62,-805.11,2639.2,2000
+40,Predicted post-training earnings,race,Black,371,False,134.0,36.12,984.02,-111.34,2147.07,2000
+40,Predicted post-training earnings,race,Hispanic,39,False,19.0,48.72,-1305.73,-3924.22,1224.67,2000
+40,Predicted post-training earnings,race,Neither indicator recorded,35,False,22.0,62.86,-2031.51,-4801.7,764.83,2000
+40,Predicted post-training earnings,age,25 and over,218,False,116.0,53.21,1497.41,-263.5,3480.76,2000
+40,Predicted post-training earnings,age,Under 25,227,False,59.0,25.99,-367.35,-1186.2,437.52,2000
+40,Predicted post-training earnings,race_by_age,Black / 25 and over,191,False,96.0,50.26,2004.13,144.88,4177.14,2000
+40,Predicted post-training earnings,race_by_age,Black / Under 25,180,False,38.0,21.11,-98.43,-1006.71,780.06,2000
+40,Predicted post-training earnings,race_by_age,Hispanic / 25 and over,12,True,8.0,66.67,495.96,-5652.87,6368.52,2000
+40,Predicted post-training earnings,race_by_age,Hispanic / Under 25,27,True,11.0,40.74,-2106.48,-5103.45,419.55,2000
+40,Predicted post-training earnings,race_by_age,Neither indicator recorded / 25 and over,15,True,12.0,80.0,-4153.76,-9128.05,1004.93,2000
+40,Predicted post-training earnings,race_by_age,Neither indicator recorded / Under 25,20,True,10.0,50.0,-439.83,-3064.56,2310.18,2000
+40,Estimated treatment benefit,race,Black,371,False,156.0,42.05,1359.27,171.87,2656.69,2000
+40,Estimated treatment benefit,race,Hispanic,39,False,7.0,17.95,-991.99,-2986.72,728.9,2000
+40,Estimated treatment benefit,race,Neither indicator recorded,35,False,12.0,34.29,-1336.84,-3839.38,953.77,2000
+40,Estimated treatment benefit,age,25 and over,218,False,120.0,55.05,2523.26,700.01,4493.13,2000
+40,Estimated treatment benefit,age,Under 25,227,False,55.0,24.23,-578.23,-1556.69,328.91,2000
+40,Estimated treatment benefit,race_by_age,Black / 25 and over,191,False,107.0,56.02,3070.6,1086.18,5235.31,2000
+40,Estimated treatment benefit,race_by_age,Black / Under 25,180,False,49.0,27.22,-456.65,-1610.07,644.6,2000
+40,Estimated treatment benefit,race_by_age,Hispanic / 25 and over,12,True,4.0,33.33,1025.65,-1937.46,4233.35,2000
+40,Estimated treatment benefit,race_by_age,Hispanic / Under 25,27,True,3.0,11.11,-1888.72,-4432.45,0.0,2000
+40,Estimated treatment benefit,race_by_age,Neither indicator recorded / 25 and over,15,True,9.0,60.0,-3248.14,-8361.97,2034.88,2000
+40,Estimated treatment benefit,race_by_age,Neither indicator recorded / Under 25,20,True,3.0,15.0,96.64,-818.55,1139.77,2000
+40,Equal race allocation rate,race,Black,371,False,145.0,39.08,994.03,-137.4,2200.2,2000
+40,Equal race allocation rate,race,Hispanic,39,False,16.0,41.03,1852.12,-1058.31,5478.52,2000
+40,Equal race allocation rate,race,Neither indicator recorded,35,False,14.0,40.0,-522.33,-3133.89,1792.91,2000
+40,Equal race allocation rate,age,25 and over,218,False,118.0,54.13,2344.9,582.34,4328.41,2000
+40,Equal race allocation rate,age,Under 25,227,False,57.0,25.11,-389.66,-1369.71,474.12,2000
+40,Equal race allocation rate,race_by_age,Black / 25 and over,191,False,100.0,52.36,2445.36,568.71,4669.39,2000
+40,Equal race allocation rate,race_by_age,Black / Under 25,180,False,45.0,25.0,-545.99,-1701.26,465.21,2000
+40,Equal race allocation rate,race_by_age,Hispanic / 25 and over,12,True,8.0,66.67,7602.37,-149.21,17674.54,2000
+40,Equal race allocation rate,race_by_age,Hispanic / Under 25,27,True,8.0,29.63,-703.55,-3001.24,1405.03,2000
+40,Equal race allocation rate,race_by_age,Neither indicator recorded / 25 and over,15,True,10.0,66.67,-3140.17,-8200.48,1703.57,2000
+40,Equal race allocation rate,race_by_age,Neither indicator recorded / Under 25,20,True,4.0,20.0,1441.05,-220.57,3423.77,2000
+60,Random allocation,race,Black,371,False,222.6,60.0,722.1,-283.86,1823.34,2000
+60,Random allocation,race,Hispanic,39,False,22.4,57.44,898.46,-1762.56,3951.26,2000
+60,Random allocation,race,Neither indicator recorded,35,False,20.0,57.14,-177.95,-2444.42,2054.2,2000
+60,Random allocation,age,25 and over,218,False,128.6,58.99,1467.5,-145.32,3295.68,2000
+60,Random allocation,age,Under 25,227,False,136.4,60.09,-102.22,-918.37,691.24,2000
+60,Random allocation,race_by_age,Black / 25 and over,191,False,111.4,58.32,1418.71,-214.14,3433.31,2000
+60,Random allocation,race_by_age,Black / Under 25,180,False,111.2,61.78,-17.08,-983.01,925.26,2000
+60,Random allocation,race_by_age,Hispanic / 25 and over,12,True,8.0,66.67,5905.37,-1499.9,14477.59,2000
+60,Random allocation,race_by_age,Hispanic / Under 25,27,True,14.4,53.33,-1326.83,-3107.94,402.07,2000
+60,Random allocation,race_by_age,Neither indicator recorded / 25 and over,15,True,9.2,61.33,-1461.6,-5486.04,2754.08,2000
+60,Random allocation,race_by_age,Neither indicator recorded / Under 25,20,True,10.8,54.0,784.78,-1596.6,3150.08,2000
+60,Predicted post-training earnings,race,Black,371,False,211.0,56.87,1001.56,-297.53,2330.72,2000
+60,Predicted post-training earnings,race,Hispanic,39,False,27.0,69.23,-1494.11,-4250.46,1244.71,2000
+60,Predicted post-training earnings,race,Neither indicator recorded,35,False,27.0,77.14,-822.4,-4122.17,2749.67,2000
+60,Predicted post-training earnings,age,25 and over,218,False,163.0,74.77,1977.92,36.15,4091.16,2000
+60,Predicted post-training earnings,age,Under 25,227,False,102.0,44.93,-646.08,-1750.33,375.99,2000
+60,Predicted post-training earnings,race_by_age,Black / 25 and over,191,False,139.0,72.77,2338.2,267.51,4717.66,2000
+60,Predicted post-training earnings,race_by_age,Black / Under 25,180,False,72.0,40.0,-416.76,-1690.75,744.17,2000
+60,Predicted post-training earnings,race_by_age,Hispanic / 25 and over,12,True,9.0,75.0,330.05,-5809.41,6222.75,2000
+60,Predicted post-training earnings,race_by_age,Hispanic / Under 25,27,True,18.0,66.67,-2304.85,-5393.03,771.08,2000
+60,Predicted post-training earnings,race_by_age,Neither indicator recorded / 25 and over,15,True,15.0,100.0,-1291.32,-8005.05,5692.61,2000
+60,Predicted post-training earnings,race_by_age,Neither indicator recorded / Under 25,20,True,12.0,60.0,-470.71,-3375.08,2525.72,2000
+60,Estimated treatment benefit,race,Black,371,False,240.0,64.69,1002.88,-315.01,2331.34,2000
+60,Estimated treatment benefit,race,Hispanic,39,False,11.0,28.21,-1008.3,-3043.27,777.31,2000
+60,Estimated treatment benefit,race,Neither indicator recorded,35,False,14.0,40.0,-1117.88,-3688.41,1233.77,2000
+60,Estimated treatment benefit,age,25 and over,218,False,160.0,73.39,1850.74,-7.94,3941.94,2000
+60,Estimated treatment benefit,age,Under 25,227,False,105.0,46.26,-483.89,-1628.31,579.95,2000
+60,Estimated treatment benefit,race_by_age,Black / 25 and over,191,False,146.0,76.44,2309.61,256.63,4616.13,2000
+60,Estimated treatment benefit,race_by_age,Black / Under 25,180,False,94.0,52.22,-383.71,-1753.53,909.94,2000
+60,Estimated treatment benefit,race_by_age,Hispanic / 25 and over,12,True,4.0,33.33,1025.65,-1937.46,4233.35,2000
+60,Estimated treatment benefit,race_by_age,Hispanic / Under 25,27,True,7.0,25.93,-1912.27,-4553.56,153.03,2000
+60,Estimated treatment benefit,race_by_age,Neither indicator recorded / 25 and over,15,True,10.0,66.67,-3332.2,-8405.77,1942.92,2000
+60,Estimated treatment benefit,race_by_age,Neither indicator recorded / Under 25,20,True,4.0,20.0,542.87,-645.88,1982.37,2000
+60,Equal race allocation rate,race,Black,371,False,221.0,59.57,1126.34,-167.63,2448.67,2000
+60,Equal race allocation rate,race,Hispanic,39,False,23.0,58.97,977.31,-2528.31,5025.83,2000
+60,Equal race allocation rate,race,Neither indicator recorded,35,False,21.0,60.0,-201.18,-3342.4,2943.13,2000
+60,Equal race allocation rate,age,25 and over,218,False,160.0,73.39,2450.9,479.6,4544.05,2000
+60,Equal race allocation rate,age,Under 25,227,False,105.0,46.26,-376.0,-1526.19,694.17,2000
+60,Equal race allocation rate,race_by_age,Black / 25 and over,191,False,138.0,72.25,2576.01,520.03,4887.87,2000
+60,Equal race allocation rate,race_by_age,Black / Under 25,180,False,83.0,46.11,-411.93,-1727.47,849.29,2000
+60,Equal race allocation rate,race_by_age,Hispanic / 25 and over,12,True,9.0,75.0,6210.34,-2843.84,17112.63,2000
+60,Equal race allocation rate,race_by_age,Hispanic / Under 25,27,True,14.0,51.85,-1348.48,-4316.0,1391.05,2000
+60,Equal race allocation rate,race_by_age,Neither indicator recorded / 25 and over,15,True,13.0,86.67,-2149.69,-8443.46,4725.94,2000
+60,Equal race allocation rate,race_by_age,Neither indicator recorded / Under 25,20,True,8.0,40.0,1260.21,-991.67,3748.6,2000

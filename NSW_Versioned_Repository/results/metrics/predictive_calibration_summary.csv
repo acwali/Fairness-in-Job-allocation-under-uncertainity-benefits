@@ -1,0 +1,4 @@
+historical_arm,n,n_positive,n_zero,small_group_n_lt_30,mean_predicted_positive_pct,observed_positive_pct,calibration_gap_pp,brier_score,mae,rmse,mean_predictive_log_score,nominal_interval_coverage_pct,observed_interval_coverage_pct,mean_interval_width
+All,445,308,137,False,68.91,69.21,-0.31,0.2132,5099.94,6911.82,-7.5701,90.0,96.85,22322.78
+Control,260,168,92,False,64.36,64.62,-0.25,0.2334,4473.02,5795.12,-7.112,90.0,96.92,20120.55
+Treated,185,140,45,False,75.29,75.68,-0.39,0.1848,5981.02,8228.95,-8.2139,90.0,96.76,25417.8

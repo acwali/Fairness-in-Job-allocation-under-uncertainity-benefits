@@ -1,0 +1,301 @@
+seed,replicate,method,folds_with_policy,outer_value_per_eligible,outer_minimum_race_benefit
+11,1,Unconstrained,5,624.7218872839721,-202.10243920275087
+11,1,Point estimate,1,,
+11,1,Lower confidence bound,0,,
+11,2,Unconstrained,5,584.9295004619837,-473.75795802805357
+11,2,Point estimate,2,,
+11,2,Lower confidence bound,0,,
+11,3,Unconstrained,5,1132.244257170303,-221.82677605993288
+11,3,Point estimate,3,,
+11,3,Lower confidence bound,0,,
+11,4,Unconstrained,5,880.5386872408412,-738.4695541632383
+11,4,Point estimate,0,,
+11,4,Lower confidence bound,0,,
+11,5,Unconstrained,5,671.6283347915027,-226.4808501507452
+11,5,Point estimate,2,,
+11,5,Lower confidence bound,0,,
+11,6,Unconstrained,5,1132.244257170303,-221.82677605993288
+11,6,Point estimate,2,,
+11,6,Lower confidence bound,0,,
+11,7,Unconstrained,5,1251.2676290846764,-1035.0134057975774
+11,7,Point estimate,3,,
+11,7,Lower confidence bound,0,,
+11,8,Unconstrained,5,1023.8986945278738,552.0146828450684
+11,8,Point estimate,2,,
+11,8,Lower confidence bound,0,,
+11,9,Unconstrained,5,875.6520418902319,-1684.9669240051026
+11,9,Point estimate,2,,
+11,9,Lower confidence bound,0,,
+11,10,Unconstrained,5,865.5289245471378,-1414.7459073206144
+11,10,Point estimate,0,,
+11,10,Lower confidence bound,0,,
+11,11,Unconstrained,5,567.1479631489839,-235.8130603574698
+11,11,Point estimate,1,,
+11,11,Lower confidence bound,0,,
+11,12,Unconstrained,5,662.8742521576254,-174.8003440784661
+11,12,Point estimate,1,,
+11,12,Lower confidence bound,0,,
+11,13,Unconstrained,5,1329.401528253337,-724.3884410336248
+11,13,Point estimate,3,,
+11,13,Lower confidence bound,0,,
+11,14,Unconstrained,5,1132.244257170303,-221.82677605993288
+11,14,Point estimate,2,,
+11,14,Lower confidence bound,0,,
+11,15,Unconstrained,5,968.9300456877438,-789.1429174857456
+11,15,Point estimate,1,,
+11,15,Lower confidence bound,0,,
+11,16,Unconstrained,5,820.4047639536813,-461.9311298055685
+11,16,Point estimate,2,,
+11,16,Lower confidence bound,0,,
+11,17,Unconstrained,5,1152.012318874914,198.55407219396807
+11,17,Point estimate,3,,
+11,17,Lower confidence bound,0,,
+11,18,Unconstrained,5,968.9300456877438,-789.1429174857456
+11,18,Point estimate,2,,
+11,18,Lower confidence bound,0,,
+11,19,Unconstrained,5,504.28853420513053,-527.9730670440172
+11,19,Point estimate,2,,
+11,19,Lower confidence bound,0,,
+11,20,Unconstrained,5,571.6092977352912,-696.0225392305756
+11,20,Point estimate,1,,
+11,20,Lower confidence bound,0,,
+22,1,Unconstrained,5,1132.244257170303,-221.82677605993288
+22,1,Point estimate,1,,
+22,1,Lower confidence bound,0,,
+22,2,Unconstrained,5,903.0708090052834,88.79818870401965
+22,2,Point estimate,1,,
+22,2,Lower confidence bound,0,,
+22,3,Unconstrained,5,776.1510425453856,-461.9311298055685
+22,3,Point estimate,1,,
+22,3,Lower confidence bound,0,,
+22,4,Unconstrained,5,1152.5061915142498,-551.2074520007992
+22,4,Point estimate,2,,
+22,4,Lower confidence bound,0,,
+22,5,Unconstrained,5,464.54082527223744,-202.10243920275087
+22,5,Point estimate,1,,
+22,5,Lower confidence bound,0,,
+22,6,Unconstrained,5,567.1479631489839,-235.8130603574698
+22,6,Point estimate,1,,
+22,6,Lower confidence bound,0,,
+22,7,Unconstrained,5,1115.7483621864042,-508.5270178414183
+22,7,Point estimate,0,,
+22,7,Lower confidence bound,0,,
+22,8,Unconstrained,5,1009.6525892555338,-321.70301439314585
+22,8,Point estimate,1,,
+22,8,Lower confidence bound,0,,
+22,9,Unconstrained,5,900.3067489454521,-318.0887059093375
+22,9,Point estimate,1,,
+22,9,Lower confidence bound,0,,
+22,10,Unconstrained,5,527.3555763269956,-696.0225392305756
+22,10,Point estimate,2,,
+22,10,Lower confidence bound,0,,
+22,11,Unconstrained,5,1162.757595987857,-221.82677605993288
+22,11,Point estimate,3,,
+22,11,Lower confidence bound,0,,
+22,12,Unconstrained,5,940.2146016739974,-217.59297023631154
+22,12,Point estimate,3,,
+22,12,Lower confidence bound,0,,
+22,13,Unconstrained,5,838.6594723270217,59.257472575983044
+22,13,Point estimate,1,,
+22,13,Lower confidence bound,0,,
+22,14,Unconstrained,5,1132.244257170303,-221.82677605993288
+22,14,Point estimate,1,,
+22,14,Lower confidence bound,0,,
+22,15,Unconstrained,5,567.1479631489839,-235.8130603574698
+22,15,Point estimate,3,,
+22,15,Lower confidence bound,0,,
+22,16,Unconstrained,5,1152.5061915142498,-551.2074520007992
+22,16,Point estimate,2,,
+22,16,Lower confidence bound,0,,
+22,17,Unconstrained,5,1087.505382649578,-524.282858591183
+22,17,Point estimate,2,,
+22,17,Lower confidence bound,0,,
+22,18,Unconstrained,5,624.7218872839721,-202.10243920275087
+22,18,Point estimate,1,,
+22,18,Lower confidence bound,0,,
+22,19,Unconstrained,5,934.2248358232301,-765.2181945032783
+22,19,Point estimate,3,,
+22,19,Lower confidence bound,0,,
+22,20,Unconstrained,5,1329.144012684818,-393.6448851920095
+22,20,Point estimate,3,,
+22,20,Lower confidence bound,0,,
+33,1,Unconstrained,5,918.4480198659031,314.1530360121551
+33,1,Point estimate,3,,
+33,1,Lower confidence bound,0,,
+33,2,Unconstrained,5,1014.8370207262568,9.569493265053799
+33,2,Point estimate,0,,
+33,2,Lower confidence bound,0,,
+33,3,Unconstrained,5,463.1995924621593,-202.10243920275087
+33,3,Point estimate,0,,
+33,3,Lower confidence bound,0,,
+33,4,Unconstrained,5,980.4127948448826,198.55407219396807
+33,4,Point estimate,3,,
+33,4,Lower confidence bound,0,,
+33,5,Unconstrained,5,1132.244257170303,-221.82677605993288
+33,5,Point estimate,2,,
+33,5,Lower confidence bound,0,,
+33,6,Unconstrained,5,571.4104981633908,-36.26596255124738
+33,6,Point estimate,0,,
+33,6,Lower confidence bound,0,,
+33,7,Unconstrained,5,1138.0151975484791,-162.04484368267023
+33,7,Point estimate,2,,
+33,7,Lower confidence bound,0,,
+33,8,Unconstrained,5,879.1955669334753,-129.95088020070756
+33,8,Point estimate,1,,
+33,8,Lower confidence bound,0,,
+33,9,Unconstrained,5,742.5308762543733,-354.4808338182793
+33,9,Point estimate,2,,
+33,9,Lower confidence bound,0,,
+33,10,Unconstrained,5,911.3561215527556,-478.51795272179305
+33,10,Point estimate,3,,
+33,10,Lower confidence bound,0,,
+33,11,Unconstrained,5,1307.1159479210462,-88.14616958751726
+33,11,Point estimate,3,,
+33,11,Lower confidence bound,0,,
+33,12,Unconstrained,5,413.3299764319524,-473.75795802805357
+33,12,Point estimate,0,,
+33,12,Lower confidence bound,0,,
+33,13,Unconstrained,5,685.3592591833919,-204.40802670541004
+33,13,Point estimate,1,,
+33,13,Lower confidence bound,0,,
+33,14,Unconstrained,5,1015.6797207005282,-551.2074520007992
+33,14,Point estimate,1,,
+33,14,Lower confidence bound,0,,
+33,15,Unconstrained,5,1043.5381757965565,-756.6477925905158
+33,15,Point estimate,1,,
+33,15,Lower confidence bound,0,,
+33,16,Unconstrained,5,1132.244257170303,-221.82677605993288
+33,16,Point estimate,2,,
+33,16,Lower confidence bound,0,,
+33,17,Unconstrained,5,1072.8605628958778,-661.9236706591657
+33,17,Point estimate,2,,
+33,17,Lower confidence bound,0,,
+33,18,Unconstrained,5,1056.3710221489132,352.46368798541283
+33,18,Point estimate,2,,
+33,18,Lower confidence bound,0,,
+33,19,Unconstrained,5,576.6507647720032,369.88243733993556
+33,19,Point estimate,0,,
+33,19,Lower confidence bound,0,,
+33,20,Unconstrained,5,1005.0679639818591,-164.85782210298478
+33,20,Point estimate,1,,
+33,20,Lower confidence bound,0,,
+44,1,Unconstrained,5,645.5668723614036,-476.06354553071276
+44,1,Point estimate,2,,
+44,1,Lower confidence bound,0,,
+44,2,Unconstrained,5,997.4068629678834,-442.8814324673193
+44,2,Point estimate,4,,
+44,2,Lower confidence bound,0,,
+44,3,Unconstrained,5,799.7004323751502,738.2162072952965
+44,3,Point estimate,1,,
+44,3,Lower confidence bound,0,,
+44,4,Unconstrained,5,1074.6703330353148,88.79818870401965
+44,4,Point estimate,1,,
+44,4,Lower confidence bound,0,,
+44,5,Unconstrained,5,629.8863522168999,533.9440162605102
+44,5,Point estimate,2,,
+44,5,Lower confidence bound,0,,
+44,6,Unconstrained,5,1074.6703330353148,88.79818870401965
+44,6,Point estimate,3,,
+44,6,Lower confidence bound,0,,
+44,7,Unconstrained,5,1021.6647048766979,-171.03050189879815
+44,7,Point estimate,3,,
+44,7,Lower confidence bound,0,,
+44,8,Unconstrained,5,1152.5061915142498,-551.2074520007992
+44,8,Point estimate,1,,
+44,8,Lower confidence bound,0,,
+44,9,Unconstrained,5,764.4952622677134,-789.1429174857456
+44,9,Point estimate,2,,
+44,9,Lower confidence bound,0,,
+44,10,Unconstrained,5,1386.7179368198063,-149.6752170578895
+44,10,Point estimate,2,,
+44,10,Lower confidence bound,0,,
+44,11,Unconstrained,5,1177.8075843704676,298.16463519043566
+44,11,Point estimate,3,,
+44,11,Lower confidence bound,0,,
+44,12,Unconstrained,5,1002.1095398824682,-248.7179510495328
+44,12,Point estimate,0,,
+44,12,Lower confidence bound,0,,
+44,13,Unconstrained,5,645.9087564870765,9.569493265053799
+44,13,Point estimate,1,,
+44,13,Lower confidence bound,0,,
+44,14,Unconstrained,5,937.900702431896,-1360.803566435031
+44,14,Point estimate,1,,
+44,14,Lower confidence bound,0,,
+44,15,Unconstrained,5,1074.6703330353148,88.79818870401965
+44,15,Point estimate,2,,
+44,15,Lower confidence bound,0,,
+44,16,Unconstrained,5,960.6447331402717,-221.82677605993288
+44,16,Point estimate,1,,
+44,16,Lower confidence bound,0,,
+44,17,Unconstrained,5,493.83009281567996,-810.6211131652815
+44,17,Point estimate,0,,
+44,17,Lower confidence bound,0,,
+44,18,Unconstrained,5,1215.1184127897752,-149.6752170578895
+44,18,Point estimate,1,,
+44,18,Lower confidence bound,0,,
+44,19,Unconstrained,5,1304.860281634821,-269.98353419494595
+44,19,Point estimate,2,,
+44,19,Lower confidence bound,0,,
+44,20,Unconstrained,5,843.56559020368,-416.6745869390139
+44,20,Point estimate,2,,
+44,20,Lower confidence bound,0,,
+55,1,Unconstrained,5,1094.9322673792617,-240.58248723684676
+55,1,Point estimate,1,,
+55,1,Lower confidence bound,0,,
+55,2,Unconstrained,5,1270.1483354884294,936.6039509999493
+55,2,Point estimate,2,,
+55,2,Lower confidence bound,0,,
+55,3,Unconstrained,5,1421.6955524499162,296.97747699320024
+55,3,Point estimate,0,,
+55,3,Lower confidence bound,0,,
+55,4,Unconstrained,5,1132.244257170303,-221.82677605993288
+55,4,Point estimate,0,,
+55,4,Lower confidence bound,0,,
+55,5,Unconstrained,5,624.7218872839721,-202.10243920275087
+55,5,Point estimate,1,,
+55,5,Lower confidence bound,0,,
+55,6,Unconstrained,5,879.1955669334753,-129.95088020070756
+55,6,Point estimate,0,,
+55,6,Lower confidence bound,0,,
+55,7,Unconstrained,5,668.6291690326226,-808.5448120109585
+55,7,Point estimate,0,,
+55,7,Lower confidence bound,0,,
+55,8,Unconstrained,5,1165.829801202259,-406.36639371974974
+55,8,Point estimate,2,,
+55,8,Lower confidence bound,0,,
+55,9,Unconstrained,5,624.7218872839721,-202.10243920275087
+55,9,Point estimate,2,,
+55,9,Lower confidence bound,0,,
+55,10,Unconstrained,5,1074.6703330353148,88.79818870401965
+55,10,Point estimate,3,,
+55,10,Lower confidence bound,0,,
+55,11,Unconstrained,5,1401.4336181059693,626.3581529340668
+55,11,Point estimate,2,,
+55,11,Lower confidence bound,0,,
+55,12,Unconstrained,5,997.4068629678834,-442.8814324673193
+55,12,Point estimate,3,,
+55,12,Lower confidence bound,0,,
+55,13,Unconstrained,5,797.3305216577123,-789.1429174857456
+55,13,Point estimate,2,,
+55,13,Lower confidence bound,0,,
+55,14,Unconstrained,5,718.5771184103974,-524.282858591183
+55,14,Point estimate,1,,
+55,14,Lower confidence bound,0,,
+55,15,Unconstrained,5,1226.0994882967284,-171.03050189879815
+55,15,Point estimate,3,,
+55,15,Lower confidence bound,0,,
+55,16,Unconstrained,5,1058.1744380514158,-197.9020530774657
+55,16,Point estimate,1,,
+55,16,Lower confidence bound,0,,
+55,17,Unconstrained,5,624.7218872839721,-202.10243920275087
+55,17,Point estimate,2,,
+55,17,Lower confidence bound,0,,
+55,18,Unconstrained,5,1158.2771318924263,-238.72270781156558
+55,18,Point estimate,1,,
+55,18,Lower confidence bound,0,,
+55,19,Unconstrained,5,624.7218872839721,-202.10243920275087
+55,19,Point estimate,0,,
+55,19,Lower confidence bound,0,,
+55,20,Unconstrained,5,567.1479631489839,-235.8130603574698
+55,20,Point estimate,1,,
+55,20,Lower confidence bound,0,,

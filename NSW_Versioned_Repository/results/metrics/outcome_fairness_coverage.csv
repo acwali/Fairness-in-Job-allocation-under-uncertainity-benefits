@@ -1,0 +1,22 @@
+capacity_pct,policy,folds_with_policy,included_in_audit
+20,Random allocation,5,True
+20,Predicted post-training earnings,5,True
+20,Estimated treatment benefit,5,True
+20,Equal race allocation rate,5,True
+20,Unconstrained,5,True
+20,Point estimate,5,True
+20,Lower confidence bound,0,False
+40,Random allocation,5,True
+40,Predicted post-training earnings,5,True
+40,Estimated treatment benefit,5,True
+40,Equal race allocation rate,5,True
+40,Unconstrained,5,True
+40,Point estimate,2,False
+40,Lower confidence bound,0,False
+60,Random allocation,5,True
+60,Predicted post-training earnings,5,True
+60,Estimated treatment benefit,5,True
+60,Equal race allocation rate,5,True
+60,Unconstrained,5,True
+60,Point estimate,2,False
+60,Lower confidence bound,0,False

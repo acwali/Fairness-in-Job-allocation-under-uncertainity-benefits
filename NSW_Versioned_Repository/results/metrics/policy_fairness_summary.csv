@@ -1,0 +1,37 @@
+capacity_pct,policy,audit,places_allocated,value_per_eligible,allocation_gap_pp,selection_rate_ratio,minimum_group_benefit,group_benefit_range
+20,Random allocation,race,85,89.03,2.8,0.8636,-88.63,206.19
+20,Random allocation,age,85,89.03,3.74,0.822,-34.67,252.5
+20,Random allocation,race_by_age,85,89.03,13.67,0.4875,-619.65,1057.42
+20,Predicted post-training earnings,race,85,-164.8,26.95,0.3711,-1735.82,1769.41
+20,Predicted post-training earnings,age,85,-164.8,23.7,0.2401,-633.63,957.01
+20,Predicted post-training earnings,race_by_age,85,-164.8,56.11,0.0648,-3248.14,5136.14
+20,Estimated treatment benefit,race,85,24.33,16.44,0.2378,-671.86,775.74
+20,Estimated treatment benefit,age,85,24.33,23.7,0.2401,-255.35,570.9
+20,Estimated treatment benefit,race_by_age,85,24.33,33.51,0.0,-1567.67,2044.43
+20,Equal race allocation rate,race,85,-105.62,3.37,0.8357,-148.43,276.29
+20,Equal race allocation rate,age,85,-105.62,22.8,0.258,-277.36,350.57
+20,Equal race allocation rate,race_by_age,85,-105.62,27.22,0.1833,-1567.67,3234.68
+40,Random allocation,race,175,266.03,4.35,0.8906,-49.37,342.82
+40,Random allocation,age,175,266.03,3.12,0.9237,-47.3,639.61
+40,Random allocation,race_by_age,175,266.03,13.33,0.7143,-1196.02,2520.55
+40,Predicted post-training earnings,race,175,546.17,26.74,0.5746,-2031.51,3015.53
+40,Predicted post-training earnings,age,175,546.17,27.22,0.4885,-367.35,1864.76
+40,Predicted post-training earnings,race_by_age,175,546.17,58.89,0.2639,-4153.76,6157.89
+40,Estimated treatment benefit,race,175,941.15,24.1,0.4269,-1336.84,2696.11
+40,Estimated treatment benefit,age,175,941.15,30.82,0.4402,-578.23,3101.5
+40,Estimated treatment benefit,race_by_age,175,941.15,48.89,0.1852,-3248.14,6318.74
+40,Equal race allocation rate,race,175,949.97,1.94,0.9527,-522.33,2374.45
+40,Equal race allocation rate,age,175,949.97,29.02,0.4639,-389.66,2734.57
+40,Equal race allocation rate,race_by_age,175,949.97,46.67,0.3,-3140.17,10742.54
+60,Random allocation,race,265,666.77,2.86,0.9524,-177.95,1076.41
+60,Random allocation,age,265,666.77,1.1,0.9817,-102.22,1569.71
+60,Random allocation,race_by_age,265,666.77,13.33,0.8,-1461.6,7366.97
+60,Predicted post-training earnings,race,265,639.38,20.27,0.7372,-1494.11,2495.68
+60,Predicted post-training earnings,age,265,639.38,29.84,0.601,-646.08,2624.01
+60,Predicted post-training earnings,race_by_age,265,639.38,60.0,0.4,-2304.85,4643.05
+60,Estimated treatment benefit,race,265,659.82,36.48,0.436,-1117.88,2120.75
+60,Estimated treatment benefit,age,265,659.82,27.14,0.6302,-483.89,2334.63
+60,Estimated treatment benefit,race_by_age,265,659.82,56.44,0.2616,-3332.2,5641.82
+60,Equal race allocation rate,race,265,1008.86,1.03,0.9829,-201.18,1327.51
+60,Equal race allocation rate,age,265,1008.86,27.14,0.6302,-376.0,2826.9
+60,Equal race allocation rate,race_by_age,265,1008.86,46.67,0.4615,-2149.69,8360.03

@@ -1,0 +1,10 @@
+capacity_pct,policy,participants,places_allocated,realized_allocation_pct,value_per_eligible,gain_vs_random,gain_ci95_lower,gain_ci95_upper
+20,Random allocation,445,85,19.1,89.03,0.0,0.0,0.0
+20,Predicted post-training earnings,445,85,19.1,-164.8,-253.83,-834.86,315.77
+20,Estimated treatment benefit,445,85,19.1,24.33,-64.7,-657.15,505.68
+40,Random allocation,445,175,39.33,266.03,0.0,0.0,0.0
+40,Predicted post-training earnings,445,175,39.33,546.17,280.14,-371.04,978.36
+40,Estimated treatment benefit,445,175,39.33,941.15,675.12,-31.84,1395.91
+60,Random allocation,445,265,59.55,666.77,0.0,0.0,0.0
+60,Predicted post-training earnings,445,265,59.55,639.38,-27.38,-751.97,670.59
+60,Estimated treatment benefit,445,265,59.55,659.82,-6.95,-686.06,662.97

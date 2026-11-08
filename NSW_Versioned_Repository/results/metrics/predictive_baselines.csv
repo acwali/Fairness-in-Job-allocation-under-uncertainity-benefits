@@ -1,0 +1,17 @@
+scope,model,n,mae,rmse
+Fold 1,Ridge,89,4397.89,5327.8
+Fold 1,Shallow regression tree,89,4222.46,5277.72
+Fold 2,Ridge,89,5088.24,8359.86
+Fold 2,Shallow regression tree,89,5191.49,8365.09
+Fold 3,Ridge,89,4219.81,5201.63
+Fold 3,Shallow regression tree,89,4406.39,5458.1
+Fold 4,Ridge,89,5348.03,7576.08
+Fold 4,Shallow regression tree,89,5371.07,7611.78
+Fold 5,Ridge,89,5509.71,6999.63
+Fold 5,Shallow regression tree,89,5213.12,6781.0
+All,Ridge,445,4912.74,6807.66
+All,Shallow regression tree,445,4880.91,6805.01
+Control,Ridge,260,4283.31,5614.1
+Control,Shallow regression tree,260,4252.61,5604.19
+Treated,Ridge,185,5797.33,8196.41
+Treated,Shallow regression tree,185,5763.91,8200.63

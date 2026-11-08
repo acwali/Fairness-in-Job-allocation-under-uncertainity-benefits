@@ -1,0 +1,122 @@
+sample,outer_fold,audit,group,n,n_treated,n_control,treated_ipw_ess,control_ipw_ess,combined_ipw_ess,n_lt_30,either_arm_ess_lt_30
+Outer test pooled,All,race,Black,371,156,215,156.0,215.0,360.46,False,False
+Outer test pooled,All,race,Hispanic,39,11,28,11.0,28.0,37.98,False,True
+Outer test pooled,All,race,Neither indicator recorded,35,18,17,18.0,17.0,34.04,False,True
+Outer test pooled,All,age,25 and over,218,97,121,97.0,121.0,211.83,False,False
+Outer test pooled,All,age,Under 25,227,88,139,88.0,139.0,220.57,False,False
+Outer test pooled,All,race_by_age,Black / 25 and over,191,85,106,85.0,106.0,185.59,False,False
+Outer test pooled,All,race_by_age,Black / Under 25,180,71,109,71.0,109.0,174.9,False,False
+Outer test pooled,All,race_by_age,Hispanic / 25 and over,12,3,9,3.0,9.0,11.7,True,True
+Outer test pooled,All,race_by_age,Hispanic / Under 25,27,8,19,8.0,19.0,26.28,True,True
+Outer test pooled,All,race_by_age,Neither indicator recorded / 25 and over,15,9,6,9.0,6.0,14.63,True,True
+Outer test pooled,All,race_by_age,Neither indicator recorded / Under 25,20,9,11,9.0,11.0,19.43,True,True
+Validation,1,race,Black,75,29,46,29.0,46.0,72.88,False,True
+Validation,1,race,Hispanic,8,4,4,4.0,4.0,7.78,True,True
+Validation,1,race,Neither indicator recorded,6,4,2,4.0,2.0,5.87,True,True
+Validation,1,age,25 and over,41,14,27,14.0,27.0,39.86,False,True
+Validation,1,age,Under 25,48,23,25,23.0,25.0,46.66,False,True
+Validation,1,race_by_age,Black / 25 and over,39,13,26,13.0,26.0,37.93,False,True
+Validation,1,race_by_age,Black / Under 25,36,16,20,16.0,20.0,34.98,False,True
+Validation,1,race_by_age,Hispanic / 25 and over,1,0,1,0.0,1.0,1.0,True,True
+Validation,1,race_by_age,Hispanic / Under 25,7,4,3,4.0,3.0,6.82,True,True
+Validation,1,race_by_age,Neither indicator recorded / 25 and over,1,1,0,1.0,0.0,1.0,True,True
+Validation,1,race_by_age,Neither indicator recorded / Under 25,5,3,2,3.0,2.0,4.88,True,True
+Outer test,1,race,Black,75,31,44,31.0,44.0,72.87,False,False
+Outer test,1,race,Hispanic,7,4,3,4.0,3.0,6.82,True,True
+Outer test,1,race,Neither indicator recorded,7,2,5,2.0,5.0,6.82,True,True
+Outer test,1,age,25 and over,42,20,22,20.0,22.0,40.82,False,True
+Outer test,1,age,Under 25,47,17,30,17.0,30.0,45.68,False,True
+Outer test,1,race_by_age,Black / 25 and over,36,18,18,18.0,18.0,35.01,False,True
+Outer test,1,race_by_age,Black / Under 25,39,13,26,13.0,26.0,37.93,False,True
+Outer test,1,race_by_age,Hispanic / 25 and over,2,1,1,1.0,1.0,1.94,True,True
+Outer test,1,race_by_age,Hispanic / Under 25,5,3,2,3.0,2.0,4.88,True,True
+Outer test,1,race_by_age,Neither indicator recorded / 25 and over,4,1,3,1.0,3.0,3.9,True,True
+Outer test,1,race_by_age,Neither indicator recorded / Under 25,3,1,2,1.0,2.0,2.92,True,True
+Validation,2,race,Black,74,31,43,31.0,43.0,71.9,False,False
+Validation,2,race,Hispanic,9,3,6,3.0,6.0,8.75,True,True
+Validation,2,race,Neither indicator recorded,6,3,3,3.0,3.0,5.83,True,True
+Validation,2,age,25 and over,42,18,24,18.0,24.0,40.81,False,True
+Validation,2,age,Under 25,47,19,28,19.0,28.0,45.67,False,True
+Validation,2,race_by_age,Black / 25 and over,37,16,21,16.0,21.0,35.95,False,True
+Validation,2,race_by_age,Black / Under 25,37,15,22,15.0,22.0,35.95,False,True
+Validation,2,race_by_age,Hispanic / 25 and over,2,0,2,0.0,2.0,2.0,True,True
+Validation,2,race_by_age,Hispanic / Under 25,7,3,4,3.0,4.0,6.8,True,True
+Validation,2,race_by_age,Neither indicator recorded / 25 and over,3,2,1,2.0,1.0,2.93,True,True
+Validation,2,race_by_age,Neither indicator recorded / Under 25,3,1,2,1.0,2.0,2.92,True,True
+Outer test,2,race,Black,75,32,43,32.0,43.0,72.87,False,False
+Outer test,2,race,Hispanic,4,0,4,0.0,4.0,4.0,True,True
+Outer test,2,race,Neither indicator recorded,10,5,5,5.0,5.0,9.72,True,True
+Outer test,2,age,25 and over,48,22,26,22.0,26.0,46.65,False,True
+Outer test,2,age,Under 25,41,15,26,15.0,26.0,39.85,False,True
+Outer test,2,race_by_age,Black / 25 and over,43,18,25,18.0,25.0,41.78,False,True
+Outer test,2,race_by_age,Black / Under 25,32,14,18,14.0,18.0,31.09,False,True
+Outer test,2,race_by_age,Hispanic / 25 and over,0,0,0,0.0,0.0,0.0,True,True
+Outer test,2,race_by_age,Hispanic / Under 25,4,0,4,0.0,4.0,4.0,True,True
+Outer test,2,race_by_age,Neither indicator recorded / 25 and over,5,4,1,4.0,1.0,4.93,True,True
+Outer test,2,race_by_age,Neither indicator recorded / Under 25,5,1,4,1.0,4.0,4.89,True,True
+Validation,3,race,Black,71,31,40,31.0,40.0,68.99,False,False
+Validation,3,race,Hispanic,6,1,5,1.0,5.0,5.88,True,True
+Validation,3,race,Neither indicator recorded,12,5,7,5.0,7.0,11.66,True,True
+Validation,3,age,25 and over,42,22,20,22.0,20.0,40.86,False,True
+Validation,3,age,Under 25,47,15,32,15.0,32.0,45.72,False,True
+Validation,3,race_by_age,Black / 25 and over,35,19,16,19.0,16.0,34.07,False,True
+Validation,3,race_by_age,Black / Under 25,36,12,24,12.0,24.0,35.01,False,True
+Validation,3,race_by_age,Hispanic / 25 and over,3,0,3,0.0,3.0,3.0,True,True
+Validation,3,race_by_age,Hispanic / Under 25,3,1,2,1.0,2.0,2.92,True,True
+Validation,3,race_by_age,Neither indicator recorded / 25 and over,4,3,1,3.0,1.0,3.93,True,True
+Validation,3,race_by_age,Neither indicator recorded / Under 25,8,2,6,2.0,6.0,7.8,True,True
+Outer test,3,race,Black,76,33,43,33.0,43.0,73.84,False,False
+Outer test,3,race,Hispanic,11,3,8,3.0,8.0,10.72,True,True
+Outer test,3,race,Neither indicator recorded,2,1,1,1.0,1.0,1.94,True,True
+Outer test,3,age,25 and over,44,20,24,20.0,24.0,42.76,False,True
+Outer test,3,age,Under 25,45,17,28,17.0,28.0,43.73,False,True
+Outer test,3,race_by_age,Black / 25 and over,42,20,22,20.0,22.0,40.82,False,True
+Outer test,3,race_by_age,Black / Under 25,34,13,21,13.0,21.0,33.04,False,True
+Outer test,3,race_by_age,Hispanic / 25 and over,2,0,2,0.0,2.0,2.0,True,True
+Outer test,3,race_by_age,Hispanic / Under 25,9,3,6,3.0,6.0,8.75,True,True
+Outer test,3,race_by_age,Neither indicator recorded / 25 and over,0,0,0,0.0,0.0,0.0,True,True
+Outer test,3,race_by_age,Neither indicator recorded / Under 25,2,1,1,1.0,1.0,1.94,True,True
+Validation,4,race,Black,73,30,43,30.0,43.0,70.93,False,False
+Validation,4,race,Hispanic,7,3,4,3.0,4.0,6.8,True,True
+Validation,4,race,Neither indicator recorded,9,4,5,4.0,5.0,8.75,True,True
+Validation,4,age,25 and over,40,17,23,17.0,23.0,38.86,False,True
+Validation,4,age,Under 25,49,20,29,20.0,29.0,47.61,False,True
+Validation,4,race_by_age,Black / 25 and over,38,16,22,16.0,22.0,36.92,False,True
+Validation,4,race_by_age,Black / Under 25,35,14,21,14.0,21.0,34.01,False,True
+Validation,4,race_by_age,Hispanic / 25 and over,0,0,0,0.0,0.0,0.0,True,True
+Validation,4,race_by_age,Hispanic / Under 25,7,3,4,3.0,4.0,6.8,True,True
+Validation,4,race_by_age,Neither indicator recorded / 25 and over,2,1,1,1.0,1.0,1.94,True,True
+Validation,4,race_by_age,Neither indicator recorded / Under 25,7,3,4,3.0,4.0,6.8,True,True
+Outer test,4,race,Black,71,30,41,30.0,41.0,68.98,False,False
+Outer test,4,race,Hispanic,8,0,8,0.0,8.0,8.0,True,True
+Outer test,4,race,Neither indicator recorded,10,7,3,7.0,3.0,9.79,True,True
+Outer test,4,age,25 and over,42,15,27,15.0,27.0,40.82,False,True
+Outer test,4,age,Under 25,47,22,25,22.0,25.0,45.68,False,True
+Outer test,4,race_by_age,Black / 25 and over,33,12,21,12.0,21.0,32.07,False,True
+Outer test,4,race_by_age,Black / Under 25,38,18,20,18.0,20.0,36.93,False,True
+Outer test,4,race_by_age,Hispanic / 25 and over,5,0,5,0.0,5.0,5.0,True,True
+Outer test,4,race_by_age,Hispanic / Under 25,3,0,3,0.0,3.0,3.0,True,True
+Outer test,4,race_by_age,Neither indicator recorded / 25 and over,4,3,1,3.0,1.0,3.93,True,True
+Outer test,4,race_by_age,Neither indicator recorded / Under 25,6,4,2,4.0,2.0,5.87,True,True
+Validation,5,race,Black,77,30,47,30.0,47.0,74.82,False,False
+Validation,5,race,Hispanic,5,1,4,1.0,4.0,4.89,True,True
+Validation,5,race,Neither indicator recorded,7,6,1,6.0,1.0,6.92,True,True
+Validation,5,age,25 and over,33,13,20,13.0,20.0,32.06,False,True
+Validation,5,age,Under 25,56,24,32,24.0,32.0,54.41,False,True
+Validation,5,race_by_age,Black / 25 and over,31,11,20,11.0,20.0,30.13,False,True
+Validation,5,race_by_age,Black / Under 25,46,19,27,19.0,27.0,44.69,False,True
+Validation,5,race_by_age,Hispanic / 25 and over,0,0,0,0.0,0.0,0.0,True,True
+Validation,5,race_by_age,Hispanic / Under 25,5,1,4,1.0,4.0,4.89,True,True
+Validation,5,race_by_age,Neither indicator recorded / 25 and over,2,2,0,2.0,0.0,2.0,True,True
+Validation,5,race_by_age,Neither indicator recorded / Under 25,5,4,1,4.0,1.0,4.93,True,True
+Outer test,5,race,Black,74,30,44,30.0,44.0,71.9,False,False
+Outer test,5,race,Hispanic,9,4,5,4.0,5.0,8.75,True,True
+Outer test,5,race,Neither indicator recorded,6,3,3,3.0,3.0,5.83,True,True
+Outer test,5,age,25 and over,42,20,22,20.0,22.0,40.82,False,True
+Outer test,5,age,Under 25,47,17,30,17.0,30.0,45.68,False,True
+Outer test,5,race_by_age,Black / 25 and over,37,17,20,17.0,20.0,35.96,False,True
+Outer test,5,race_by_age,Black / Under 25,37,13,24,13.0,24.0,35.97,False,True
+Outer test,5,race_by_age,Hispanic / 25 and over,3,2,1,2.0,1.0,2.93,True,True
+Outer test,5,race_by_age,Hispanic / Under 25,6,2,4,2.0,4.0,5.83,True,True
+Outer test,5,race_by_age,Neither indicator recorded / 25 and over,2,1,1,1.0,1.0,1.94,True,True
+Outer test,5,race_by_age,Neither indicator recorded / Under 25,4,2,2,2.0,2.0,3.89,True,True

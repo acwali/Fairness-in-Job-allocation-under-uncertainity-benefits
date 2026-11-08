@@ -1,0 +1,4 @@
+capacity_pct,method,fold_refits,folds_with_policy,feasibility_pct,full_five_fold_replicates,same_rule_pct_when_selected,median_outer_value_when_complete,median_worst_group_benefit_when_complete
+40,Unconstrained,500,500,100.0,100,56.6,968.93,-221.83
+40,Point estimate,500,158,31.6,0,44.94,,
+40,Lower confidence bound,500,0,0.0,0,,,

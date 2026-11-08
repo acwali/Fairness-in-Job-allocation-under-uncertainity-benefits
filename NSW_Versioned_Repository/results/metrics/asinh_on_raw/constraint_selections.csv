@@ -1,0 +1,46 @@
+outer_fold,capacity_pct,method,feasible_candidates,status,candidate,rule,validation_value
+1,20,Unconstrained,7,selected,3,"('education', 2, 10.0, False)",0.1997117822155049
+1,20,Point estimate,3,selected,3,"('education', 2, 10.0, False)",0.1997117822155049
+1,20,Lower confidence bound,0,infeasible,,,
+1,40,Unconstrained,7,selected,5,"('re74', 7, 0.0, True)",0.2309711549627543
+1,40,Point estimate,1,selected,5,"('re74', 7, 0.0, True)",0.2309711549627543
+1,40,Lower confidence bound,0,infeasible,,,
+1,60,Unconstrained,7,selected,5,"('re74', 7, 0.0, True)",0.14938206338785498
+1,60,Point estimate,1,selected,5,"('re74', 7, 0.0, True)",0.14938206338785498
+1,60,Lower confidence bound,0,infeasible,,,
+2,20,Unconstrained,7,selected,2,"('age', 1, 27.0, True)",0.28472311665838246
+2,20,Point estimate,1,selected,3,"('education', 2, 10.0, False)",0.1993127049432378
+2,20,Lower confidence bound,0,infeasible,,,
+2,40,Unconstrained,7,selected,4,"('education', 2, 11.0, False)",0.14381506516536735
+2,40,Point estimate,0,infeasible,,,
+2,40,Lower confidence bound,0,infeasible,,,
+2,60,Unconstrained,7,selected,3,"('education', 2, 10.0, False)",0.10903732699973398
+2,60,Point estimate,0,infeasible,,,
+2,60,Lower confidence bound,0,infeasible,,,
+3,20,Unconstrained,7,selected,1,"('age', 1, 21.0, False)",0.37745829118192853
+3,20,Point estimate,1,selected,3,"('education', 2, 10.0, False)",0.2744098465621723
+3,20,Lower confidence bound,0,infeasible,,,
+3,40,Unconstrained,7,selected,4,"('education', 2, 11.0, False)",0.46317692469698485
+3,40,Point estimate,1,selected,3,"('education', 2, 10.0, False)",0.11682840086623728
+3,40,Lower confidence bound,0,infeasible,,,
+3,60,Unconstrained,7,selected,3,"('education', 2, 10.0, False)",0.2898743566668819
+3,60,Point estimate,0,infeasible,,,
+3,60,Lower confidence bound,0,infeasible,,,
+4,20,Unconstrained,6,selected,6,"('re75', 8, 0.0, False)",0.19614555368614736
+4,20,Point estimate,5,selected,6,"('re75', 8, 0.0, False)",0.19614555368614736
+4,20,Lower confidence bound,0,infeasible,,,
+4,40,Unconstrained,6,selected,2,"('age', 1, 27.0, False)",0.477552141383723
+4,40,Point estimate,0,infeasible,,,
+4,40,Lower confidence bound,0,infeasible,,,
+4,60,Unconstrained,6,selected,2,"('age', 1, 27.0, False)",0.4334296482849784
+4,60,Point estimate,0,infeasible,,,
+4,60,Lower confidence bound,0,infeasible,,,
+5,20,Unconstrained,7,selected,1,"('age', 1, 21.0, False)",0.23897624853671282
+5,20,Point estimate,4,selected,3,"('education', 2, 9.0, False)",0.20063525616670252
+5,20,Lower confidence bound,0,infeasible,,,
+5,40,Unconstrained,7,selected,3,"('education', 2, 9.0, False)",0.359674291943735
+5,40,Point estimate,1,selected,3,"('education', 2, 9.0, False)",0.359674291943735
+5,40,Lower confidence bound,0,infeasible,,,
+5,60,Unconstrained,7,selected,2,"('age', 1, 27.0, False)",0.38989715764855504
+5,60,Point estimate,1,selected,3,"('education', 2, 9.0, False)",0.30157493507113514
+5,60,Lower confidence bound,0,infeasible,,,

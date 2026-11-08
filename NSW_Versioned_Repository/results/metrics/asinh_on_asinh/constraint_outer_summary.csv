@@ -1,0 +1,10 @@
+capacity_pct,method,folds_with_policy,folds_infeasible,outer_value_per_eligible,outer_minimum_race_benefit
+20,Unconstrained,5,0,0.13,0.06
+20,Point estimate,5,0,0.15,-0.04
+20,Lower confidence bound,0,5,,
+40,Unconstrained,5,0,0.17,-0.01
+40,Point estimate,3,2,,
+40,Lower confidence bound,0,5,,
+60,Unconstrained,5,0,0.21,0.03
+60,Point estimate,2,3,,
+60,Lower confidence bound,0,5,,

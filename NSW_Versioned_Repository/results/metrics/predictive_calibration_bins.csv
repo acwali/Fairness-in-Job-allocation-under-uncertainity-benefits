@@ -1,0 +1,16 @@
+historical_arm,probability_bin_lower,probability_bin_upper,n,mean_predicted_positive_pct,observed_positive_pct
+All,0.0,0.2,0,,
+All,0.2,0.4,1,32.84,100.0
+All,0.4,0.6,82,56.78,68.29
+All,0.6,0.8,288,68.26,66.67
+All,0.8,1.0,74,85.34,79.73
+Control,0.0,0.2,0,,
+Control,0.2,0.4,1,32.84,100.0
+Control,0.4,0.6,81,56.8,67.9
+Control,0.6,0.8,152,65.38,61.18
+Control,0.8,1.0,26,83.19,73.08
+Treated,0.0,0.2,0,,
+Treated,0.2,0.4,0,,
+Treated,0.4,0.6,1,54.83,100.0
+Treated,0.6,0.8,136,71.48,72.79
+Treated,0.8,1.0,48,86.5,83.33

@@ -1,0 +1,97 @@
+capacity_pct,policy,historical_arm,audit,equality_of_opportunity_gap_pp,fpr_gap_pp,equalized_odds_gap_pp,groups_with_defined_tpr,groups_with_defined_fpr,has_low_support_denominator
+20,Random allocation,Control,race,1.43,14.67,14.67,3,3,True
+20,Random allocation,Control,age,2.7,4.09,4.09,2,2,False
+20,Random allocation,Control,race_by_age,4.0,40.0,40.0,6,6,True
+20,Random allocation,Treated,race,3.04,9.07,9.07,3,2,True
+20,Random allocation,Treated,age,6.36,1.2,6.36,2,2,True
+20,Random allocation,Treated,race_by_age,25.83,20.0,25.83,6,4,True
+20,Predicted post-training earnings,Control,race,21.21,29.29,29.29,3,3,True
+20,Predicted post-training earnings,Control,age,26.05,25.53,26.05,2,2,False
+20,Predicted post-training earnings,Control,race_by_age,63.73,100.0,100.0,6,6,True
+20,Predicted post-training earnings,Treated,race,29.65,31.4,31.4,3,2,True
+20,Predicted post-training earnings,Treated,age,21.49,18.0,21.49,2,2,True
+20,Predicted post-training earnings,Treated,race_by_age,44.23,100.0,100.0,6,4,True
+20,Estimated treatment benefit,Control,race,16.03,16.67,16.67,3,3,True
+20,Estimated treatment benefit,Control,age,22.48,21.09,22.48,2,2,False
+20,Estimated treatment benefit,Control,race_by_age,28.57,27.91,28.57,6,6,True
+20,Estimated treatment benefit,Treated,race,21.88,26.74,26.74,3,2,True
+20,Estimated treatment benefit,Treated,age,24.18,26.0,26.0,2,2,True
+20,Estimated treatment benefit,Treated,race_by_age,42.62,100.0,100.0,6,4,True
+20,Equal race allocation rate,Control,race,14.6,20.0,20.0,3,3,True
+20,Equal race allocation rate,Control,age,19.29,25.44,25.44,2,2,False
+20,Equal race allocation rate,Control,race_by_age,50.0,33.33,50.0,6,6,True
+20,Equal race allocation rate,Treated,race,8.37,29.07,29.07,3,2,True
+20,Equal race allocation rate,Treated,age,21.41,31.0,31.0,2,2,True
+20,Equal race allocation rate,Treated,race_by_age,39.34,100.0,100.0,6,4,True
+20,Unconstrained,Control,race,11.92,13.33,13.33,3,3,True
+20,Unconstrained,Control,age,20.16,29.31,29.31,2,2,False
+20,Unconstrained,Control,race_by_age,33.33,100.0,100.0,6,6,True
+20,Unconstrained,Treated,race,0.57,9.3,9.3,3,2,True
+20,Unconstrained,Treated,age,21.81,16.0,21.81,2,2,True
+20,Unconstrained,Treated,race_by_age,27.56,16.67,27.56,6,4,True
+20,Point estimate,Control,race,14.99,46.67,46.67,3,3,True
+20,Point estimate,Control,age,11.85,18.49,18.49,2,2,False
+20,Point estimate,Control,race_by_age,33.33,100.0,100.0,6,6,True
+20,Point estimate,Treated,race,9.66,11.63,11.63,3,2,True
+20,Point estimate,Treated,age,17.57,2.0,17.57,2,2,True
+20,Point estimate,Treated,race_by_age,27.87,12.5,27.87,6,4,True
+40,Random allocation,Control,race,8.47,21.33,21.33,3,3,True
+40,Random allocation,Control,age,5.73,0.67,5.73,2,2,False
+40,Random allocation,Control,race_by_age,13.97,50.0,50.0,6,6,True
+40,Random allocation,Treated,race,10.02,10.93,10.93,3,2,True
+40,Random allocation,Treated,age,2.96,2.8,2.96,2,2,True
+40,Random allocation,Treated,race_by_age,24.17,22.11,24.17,6,4,True
+40,Predicted post-training earnings,Control,race,28.14,27.86,28.14,3,3,True
+40,Predicted post-training earnings,Control,age,27.66,31.16,31.16,2,2,False
+40,Predicted post-training earnings,Control,race_by_age,68.63,100.0,100.0,6,6,True
+40,Predicted post-training earnings,Treated,race,38.64,12.79,38.64,3,2,True
+40,Predicted post-training earnings,Treated,age,21.49,32.0,32.0,2,2,True
+40,Predicted post-training earnings,Treated,race_by_age,42.31,100.0,100.0,6,4,True
+40,Estimated treatment benefit,Control,race,22.67,18.1,22.67,3,3,True
+40,Estimated treatment benefit,Control,age,31.34,33.19,33.19,2,2,False
+40,Estimated treatment benefit,Control,race_by_age,54.12,100.0,100.0,6,6,True
+40,Estimated treatment benefit,Treated,race,32.9,17.44,32.9,3,2,True
+40,Estimated treatment benefit,Treated,age,28.35,24.0,28.35,2,2,True
+40,Estimated treatment benefit,Treated,race_by_age,59.63,100.0,100.0,6,4,True
+40,Equal race allocation rate,Control,race,6.21,30.95,30.95,3,3,True
+40,Equal race allocation rate,Control,age,31.63,24.49,31.63,2,2,False
+40,Equal race allocation rate,Control,race_by_age,55.56,78.05,78.05,6,6,True
+40,Equal race allocation rate,Treated,race,10.8,17.44,17.44,3,2,True
+40,Equal race allocation rate,Treated,age,28.43,24.0,28.43,2,2,True
+40,Equal race allocation rate,Treated,race_by_age,75.0,100.0,100.0,6,4,True
+40,Unconstrained,Control,race,26.94,26.67,26.94,3,3,True
+40,Unconstrained,Control,age,18.86,30.5,30.5,2,2,False
+40,Unconstrained,Control,race_by_age,52.38,100.0,100.0,6,6,True
+40,Unconstrained,Treated,race,25.57,17.44,25.57,3,2,True
+40,Unconstrained,Treated,age,33.66,6.0,33.66,2,2,True
+40,Unconstrained,Treated,race_by_age,62.5,100.0,100.0,6,4,True
+60,Random allocation,Control,race,14.13,25.33,25.33,3,3,True
+60,Random allocation,Control,age,2.12,4.26,4.26,2,2,False
+60,Random allocation,Control,race_by_age,14.68,50.0,50.0,6,6,True
+60,Random allocation,Treated,race,4.78,5.81,5.81,3,2,True
+60,Random allocation,Treated,age,1.39,8.0,8.0,2,2,True
+60,Random allocation,Treated,race_by_age,27.5,21.05,27.5,6,4,True
+60,Predicted post-training earnings,Control,race,28.95,26.67,28.95,3,3,True
+60,Predicted post-training earnings,Control,age,29.07,34.47,34.47,2,2,False
+60,Predicted post-training earnings,Control,race_by_age,66.18,100.0,100.0,6,6,True
+60,Predicted post-training earnings,Treated,race,24.67,10.47,24.67,3,2,True
+60,Predicted post-training earnings,Treated,age,21.98,45.0,45.0,2,2,True
+60,Predicted post-training earnings,Treated,race_by_age,66.67,100.0,100.0,6,4,True
+60,Estimated treatment benefit,Control,race,32.69,44.29,44.29,3,3,True
+60,Estimated treatment benefit,Control,age,31.97,19.1,31.97,2,2,False
+60,Estimated treatment benefit,Control,race_by_age,52.38,100.0,100.0,6,6,True
+60,Estimated treatment benefit,Treated,race,36.2,12.79,36.2,3,2,True
+60,Estimated treatment benefit,Treated,age,23.37,31.0,31.0,2,2,True
+60,Estimated treatment benefit,Treated,race_by_age,56.97,100.0,100.0,6,4,True
+60,Equal race allocation rate,Control,race,18.01,60.0,60.0,3,3,True
+60,Equal race allocation rate,Control,age,28.78,21.42,28.78,2,2,False
+60,Equal race allocation rate,Control,race_by_age,61.11,66.67,66.67,6,6,True
+60,Equal race allocation rate,Treated,race,5.11,8.14,8.14,3,2,True
+60,Equal race allocation rate,Treated,age,26.14,32.0,32.0,2,2,True
+60,Equal race allocation rate,Treated,race_by_age,50.0,100.0,100.0,6,4,True
+60,Unconstrained,Control,race,7.25,60.0,60.0,3,3,True
+60,Unconstrained,Control,age,17.28,31.77,31.77,2,2,False
+60,Unconstrained,Control,race_by_age,60.0,100.0,100.0,6,6,True
+60,Unconstrained,Treated,race,24.7,3.49,24.7,3,2,True
+60,Unconstrained,Treated,age,33.82,33.0,33.82,2,2,True
+60,Unconstrained,Treated,race_by_age,87.5,100.0,100.0,6,4,True

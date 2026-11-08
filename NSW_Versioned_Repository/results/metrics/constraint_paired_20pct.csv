@@ -1,0 +1,3 @@
+capacity_pct,metric,unconstrained,point_estimate_policy,point_minus_unconstrained,ci95_lower,ci95_upper,valid_bootstrap_replicates
+20,Overall value per eligible,648.25,492.88,-155.37,-531.87,161.54,2000
+20,Worst race-group benefit,112.57,125.79,13.22,-1231.76,725.46,2000

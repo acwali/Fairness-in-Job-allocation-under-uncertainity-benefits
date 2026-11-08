@@ -1,0 +1,1 @@
+NSW policy results. Panels B and D show feasibility. A zero bar indicates zero feasible selections. At 40% capacity, the lower-confidence-bound rule selected a feasible policy in 0 of 5 original outer folds and 0 of 500 development-sample fold refits. Its full-sample held-out policy value was unavailable. Panel C shows fixed-policy bootstrap intervals.
